@@ -76,8 +76,8 @@ def states2():
    # df = pd.read_sql_query(query, engine)
    # //
 
-    con = psycopg2.connect(app.config['SQLALCHEMY_DATABASE_URI'] )
-    # con = psycopg2.connect(database="school_funding_state_data", user="postgres", password="postgres", host="127.0.0.1", port="5432")
+    # con = psycopg2.connect(app.config['SQLALCHEMY_DATABASE_URI'] )
+    con = psycopg2.connect(database="schoo>l_funding_state_data", user="postgres", password="postgres", host="127.0.0.1", port="5432")
     print("Database opened successfully")
 
     cur = con.cursor()
