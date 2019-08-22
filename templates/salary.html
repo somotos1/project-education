@@ -1,0 +1,126 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Data Visualization</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/lux/bootstrap.min.css">
+    <link rel="stylesheet" href="./static/css/style.css" />
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+
+</head>
+
+<body>
+    <div>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="goodindex.html">U.S. Public Education Funding</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+            <div class="collapse navbar-collapse" id="navbarColor02">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Analysis
+          </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="salary.html">Teacher Salary Analysis</a>
+                            <a class="dropdown-item" href="map.html">School Funding Analysis</a>
+                            <a class="dropdown-item" href="TestScores.html">Test Score Analysis</a>
+                            <a class="dropdown-item" href="machine.html">Machine Learning</a>
+                        </div>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="team.html">Team</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="container" style="margin-top:80px">
+        <div class="row">
+            <div class="container"></div>
+            <h1 style="text-align: justify">
+                <font color="black">
+                    <center>Average Teacher Salary in Protest States vs. US National Average</center>
+                </font>
+            </h1>
+            <div class="chart" style="margin-top:80px" align="center"></div>
+        </div>
+
+        <div class="container" style="margin-top:80px" align="center">
+            <h5>
+                <font color="black">Overview</font>
+            </h5>
+            <div class="col-md-9">
+                <p style="text-align:justify">
+                    <font color="black">
+                        Unlike other professions like doctors, lawyers, or accountants, teacher's contributions to American society are vastyl underappreciated, which leads to chronic undercompensation. This page considers whether the salaries in protest states were below the
+                        US National Teacher Salary Average between 1990 - 2016.<br> States evaluated:<br>
+                        <li style="text-align: justify">US National Avg - Green</li>
+                        <li style="text-align: justify">Arizona - Blue</li>
+                        <li style="text-align: justify">North Carolina - Purple</li>
+                        <li style="text-align: justify">Georgia - Red</li>
+                        <li style="text-align: justify">West Virginia - Yellow</li>
+                        <li style="text-align: justify">Kentucky - Grey</li>
+                        <li style="text-align: justify">Colorado - Orange</li>
+                        <li style="text-align: justify">Oklahoma - Black</li>
+                        <li style="text-align: justify">Virginia - Brown</li>
+                    </font>
+                </p>
+            </div>
+        </div>
+        <div class="col-md-3"></div>
+    </div>
+    <div class="container" style="margin-top:80px" align="center">
+        <h5>
+            <font color="black">Analysis</font>
+        </h5>
+        <div class="col-md-9">
+            <p style="text-align:justify">
+                <font color="black">
+                    <li style="text-align: justify">In general, all 8 protest states have average teacher salaries below the US National Average.</li>
+                    <li style="text-align: justify">The one 'failed' strike, Georgia, has the average teacher salary closest to the US National Average.</li>
+                    <li style="text-align: justify">The gap between the US National Average and each protest state's average has increased over the last 30 years.</li>
+                    <li style="text-align: justify">During the past 30 years, the pay gap is largest in Oklahoma. Teachers in Oklahoma made 24.3% less than the US National Average in 1990, and have seen the pay gap increase to 27.8% in 2017.</li>
+                </font>
+            </p>
+        </div>
+    </div>
+    <div class="col-md-3"></div>
+    </div>
+    <div class="container" style="margin-top:80px" align="center">
+        <h5>
+            <font color="black">Data sources</font>
+        </h5>
+        <div class="col-md-9">
+            <p style="text-align:justify">
+                <font color="black">
+                    <li style="text-align: justify">Teacher Salary Data: <a href="https://nsf.gov/statistics/state-indicators/indicator/public-school-teacher-salaries/map/2017"> National Science Foundation(NSF)</a></li>
+            </p>
+            </font>
+        </div>
+    </div>
+    <div class="col-md-3"></div>
+    </div>
+    <div class="container" style="margin-top:40px">
+        <footer>
+            <p align="center">
+                <font color="black">Created by The 6 Musketeers for GW Data Analytics Bootcamp - 2019</font>
+            </p>
+        </footer>
+    </div>
+
+    <script type="text/javascript" src="static/js/salaries.js"></script>
+
+
+</body>
+
+</html>

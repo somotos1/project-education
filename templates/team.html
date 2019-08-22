@@ -1,0 +1,145 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Data Visualization</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/lux/bootstrap.min.css">
+    <link rel="stylesheet" href="./static/css/style.css" />
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <!--<script src="https://d3js.org/d3.v5.min.js"></script>-->
+
+</head>
+
+<body>
+    <div>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="goodindex.html">U.S. Public Education Funding</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+            <div class="collapse navbar-collapse" id="navbarColor02">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Analysis
+        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="salary.html">Teacher Salary Analysis</a>
+                            <a class="dropdown-item" href="map.html">School Funding Analysis</a>
+                            <a class="dropdown-item" href="TestScores.html">Test Score Analysis</a>
+                            <a class="dropdown-item" href="machine.html">Machine Learning</a>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="team.html">Team</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="container" style="margin-top:40px">
+        <div class="row">
+            <div class="col-sm-12">
+                <h1>
+                    <font color="black">
+                        <center>The 6 Musketeers Team</center>
+                    </font>
+                </h1>
+            </div>
+
+            <div class="container" style="margin-top:20px">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <p>
+                            This project was created for GWU Data Analytics Bootcamp Spring 2019 Cohort. This project consisted of gathering data, an ETL mini-project, using d3(JavaScript) and HTML/CSS.</p>
+                    </div>
+                </div>
+
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="ruba col-md-4 profile text-center">
+                            <div class="img-box">
+                                <img src="/static/images/ruba.JPG" width="200" height="200">
+                            </div><br><br>
+                            <h5>
+                                <font color="black">Ruba Najada</font>
+                            </h5>
+                            <p>Led the data ETL and the SQL database for the Choropleth Map.</p>
+                            <button type="button" class="btn btn-outline-info btn-lg"><a href="https://www.linkedin.com/in/rubaalnajada/">LinkedIn</a></button> 
+                            </a>
+                        </div>
+                        <div class="shawn col-md-4 profile text-center">
+                            <div class="img-box">
+                                <img src="/static/images/shawn.jpg" width="200" height="200" margin="50">
+                            </div><br><br>
+                            <h5>
+                                <font color="black">Shawn Mayekar</font>
+                            </h5>
+                            <p>Conducted research and cleaned data for the project.</p>
+                            <button type="button" class="btn btn-outline-info btn-lg"><a href="https://www.linkedin.com/in/shawn-mayekar">LinkedIn</a></button> 
+                            </a>
+                        </div>
+                        <div class="ellen col-md-4 profile text-center">
+                            <div class="img-box">
+                                <img src="/static/images/ellen.png" width="200" height="200">
+                            </div><br><br>
+                            <h5>
+                                <font color="black">Ellen Riina</h5>
+                            </font>
+                            <p>Served as the project manager and led the HTML/CSS coding.</p>
+                            <button type="button" class="btn btn-outline-info btn-lg"><a href="https://github.com/eriina">GitHub</a></button> 
+                            </a>
+                        </div>
+                        <div class="harper col-md-4 profile text-center">
+                            <div class="img-box"><br>
+                                <img src="/static/images/harper.png" width="200" height="200" padding="100">
+                            </div><br><br>
+                            <h5>
+                                <font color="black">Michael Harper</font>
+                            </h5>
+                            <p>Created the Teacher Salary Line Graph Analysis.</p>
+                            <button type="button" class="btn btn-outline-info btn-lg"><a href="https://www.linkedin.com/in/maharperii/">LinkedIn</a><br> <a href="https://github.com/harper-data-mind">GitHub</a></button>
+                            </a>
+
+                        </div>
+                        <div class="hunter col-md-4 profile text-center">
+                            <div class="img-box"><br>
+                                <img src="/static/images/hunter.png" width="200" , height="200">
+                            </div><br><br>
+
+                            <h5>
+                                <font color="black">Hunter Mackman</font>
+                            </h5>
+                            <p>Created the Public School Funding Choropleth Map. </p><button type="button" class="btn btn-outline-info btn-lg"><a href="https://www.linkedin.com/in/hunter-mackman-531031134/">LinkedIn</a> <br>
+                            <a href="https://github.com/hmackman">GitHub</a>
+                            </button>
+                            
+
+                        </div>
+                        <div class="stephanie col-md-4 profile text-center">
+                            <div class="img-box"><br>
+                                <img src="/static/images/stephanie.png" width="200" height="200">
+                            </div><br><br>
+
+                            <h5>
+                                <font color="black">Stephanie Omotosho</font>
+                            </h5>
+                            <p>Created the Test Scores Scatterplot and Machine Learning section.</p><button type="button" class="btn btn-outline-info btn-lg"><a href="https://www.linkedin.com/in/stephanieomotosho/">LinkedIn</a><br> <a href="https://github.com/somotos1">GitHub</a></button>
+                            
+
+                        </div>
+                        <div class="container" style="margin-top:40px">
+                            <footer>
+                                <p>Created by The 6 Musketeers for GW Data Analytics Bootcamp - 2019</p>
+                            </footer>
+                        </div>
+                        </section>
+                    </div>
+</body>
+
+</html>

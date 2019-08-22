@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Predicted Score vs Actual Score</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/lux/bootstrap.min.css">
+    <link rel="stylesheet" href="./static/css/style.css" />
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+    <div>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand" href="goodindex.html">U.S. Public Education Funding</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02"
+                aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarColor02">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Analysis
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="salary.html">Teacher Salary Analysis</a>
+                            <a class="dropdown-item" href="map.html">School Funding Analysis</a>
+                            <a class="dropdown-item" href="TestScores.html">Test Score Analysis</a>
+                            <a class="dropdown-item" href="machine.html">Machine Learning</a>
+                        </div>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="team.html">Team</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="container" style="margin-top:80px">
+        <div class="row">
+            <div class="container"></div>
+            <h1 style="text-align: justify">
+                <font color="black">
+                    <center>Machine Learning Objective<br> Predict Average Math scores given funding, spending and
+                        teacher salary data </center>
+                </font>
+            </h1>
+            <div class="container" style="margin-top:80px" align="center">
+                <h5>
+                    <font color="black">Overview</font>
+                </h5>
+                <div class="col-md-9">
+                    <p style="text-align:justify">
+                        <font color="black">
+                            Given the trends identified between dollars received per student enrolled, average teacher
+                            salaries and average
+                            scores, we hypothesized that it might be possible to create a machine learning model that
+                            could predict average
+                            scores given funding, spend and teacher salary data. The below charts discuss our process
+                            and findings in the
+                            exploration of this hypothesis.</font>
+                    </p>
+                </div>
+                <div class="col-md-3"></div>
+            </div>
+        </div>
+        <div class="container" style="margin-top:30px" align="center">
+            <div class="col-md-9">
+                <h5>
+                    <font color="black">Process & Initial Review</font>
+                </h5>
+                <p style="text-align:justify">
+                    <font color="black">Using a linear regression model, our initial findings on the
+                        training and test data suggested that the model would be reasonable in predicting average
+                        test scores. The model
+                        produced an R2 score of 0.95 and a reasonably low MSE. Plotting the residuals as well as
+                        reviewing the distribution of the errors gave us further comfort on the model's predictive
+                        capabilities.</font>
+                    </br>
+                    <ul>
+                        <font color="black">
+                            <li style="text-align: justify">The residuals are fairly symmetrically distributed, tending to cluster towards the
+                                middle of
+                                the
+                                plot</li>
+                            <li style="text-align: justify">They’re clustered around the lower single digits of the y-axis (e.g., 2 or 5, not 10 or
+                                above)
+                            </li>
+                            <li style="text-align: justify">In general, there weren’t any clear patterns</li>
+                        </font>
+                    </ul>
+                </p>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="container" align="center">
+            <div class="row">
+                <div class="col-md-6">
+                    <img class="home-img img-fluid" src="../static/images/residuals.png" alt="Model Residuals/Errors">
+                </div>
+                <div class="col-md-6">
+                    <img class="home-img img-fluid" src="../static/images/ml_errors_distribution.png"
+                        alt="Distribution of Errors"></div>
+            </div>
+        </div>
+        <div class="container" style="margin-top:80px" align="center">
+            <h5>
+                <font color="black"><u>Prediction 1</u></font>
+            </h5>
+            <div class="col-md-9">
+                <p style="text-align:justify">
+                    <font color="black">
+                        Having obtained some comfort around the predictability of the model, we decided to test the
+                        model further by
+                        predicting the average test scores for the latest 3 years (2015 - 2017). Actual average test
+                        scores for these
+                        years have been published, which would allow for a comparison of predicted score vs actual. For
+                        the most part, the predicted values weren't significantly different.
+                        </br><u>Select a State</u> in the drop down bar
+                        of the chart below to see the predicted score vs the actual score spanning 2015 - 2017.</font>
+                </p>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div class="bubbleplot" data-num="0">
+            <div class="plot" id="plotdiv"></div>
+            <div class="control-row">
+                State: <select class="statedata">
+                </select>
+            </div>
+        </div>
+        <div class="container" style="margin-top:80px" align="center">
+            <h5>
+                <font color="black"><u>Prediction 2</u></font>
+            </h5>
+            <div class="col-md-9">
+                <p style="text-align:justify">
+                    <font color="black">
+                        As a further test on the predictability of the model, we obtained forecast funding, spend and
+                        teacher salary data from the same data sources as the 2003 - 2017 data sources and used the
+                        model to predict the 2019 average test scores. Unfortunately 2019 test scores have not been
+                        published, so a comparison to actual is not possible at this stage. The results are shown below
+                        for each state.
+                        </br><u>Hover on each bar</u> to view the predicted test score for 2019.
+                        <br><em>NB: The model produced some obviously incorrect data for 7 states (e.g. test score of
+                            580,250). These have been reduced to 0. With more time, we would explore these issues.</em>
+                    </font>
+                </p>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
+        <div id="chart"></div>
+        <div class="container" style="margin-top:80px" align="center">
+                <h5><font color="black">Data sources</font></h5>
+                <div class="col-md-9">
+                      <p  style="text-align:justify"><font color="black">
+                          <ul><font color="black">
+                        <li style="text-align: justify">Funding Data: <a href="census.gov">U.S. Census</a> (/programs-surveys/school-finances/data/tables.html)</li>
+                    <li style="text-align: justify">Test Scores Data: <a href= "https://nces.ed.gov/nationsreportcard/"> National Assessment of Educational Progress (NAEP)</a></li>
+                </font></ul>
+            </font></p></div>
+                </div>
+                <div class="col-md-3"></div>
+        </div>
+        <div class="container" style="margin-top:40px">
+                <footer>
+                  <p align="center"><font color="black">Created by The 6 Musketeers for GW Data Analytics Bootcamp - 2019</font></p>
+                </footer>
+              </div>
+    </div>
+    <script type="text/javascript" src="../static/js/mlMathData18_19.js"></script>
+    <script type="text/javascript" src="../static/js/mlResultsViz2.js"></script>
+    <script type="text/javascript" src="../static/js/mlResultsViz.js"></script>
+</body>
+
+</html>

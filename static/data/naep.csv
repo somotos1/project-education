@@ -1,0 +1,1854 @@
+YEAR,STATE,AVG_SCORE,TEST_SUBJECT,TEST_YEAR
+2017,Alabama,268.3120202,Mathematics,8
+2017,Alaska,277.0155718,Mathematics,8
+2017,Arizona,282.2481453,Mathematics,8
+2017,Arkansas,273.7599073,Mathematics,8
+2017,California,276.6382001,Mathematics,8
+2017,Colorado,286.2477175,Mathematics,8
+2017,Connecticut,284.1443303,Mathematics,8
+2017,Delaware,278.0234989,Mathematics,8
+2017,District of Columbia,265.7797706,Mathematics,8
+2017,Florida,279.1204152,Mathematics,8
+2017,Georgia,281.0354875,Mathematics,8
+2017,Hawaii,277.3368458,Mathematics,8
+2017,Idaho,284.3717329,Mathematics,8
+2017,Illinois,281.6179977,Mathematics,8
+2017,Indiana,287.7056395,Mathematics,8
+2017,Iowa,286.2394182,Mathematics,8
+2017,Kansas,285.2835079,Mathematics,8
+2017,Kentucky,277.7141618,Mathematics,8
+2017,Louisiana,266.5067603,Mathematics,8
+2017,Maine,284.0030073,Mathematics,8
+2017,Maryland,280.9102456,Mathematics,8
+2017,Massachusetts,297.0422252,Mathematics,8
+2017,Michigan,279.5054547,Mathematics,8
+2017,Minnesota,293.9623757,Mathematics,8
+2017,Mississippi,270.9149075,Mathematics,8
+2017,Missouri,280.5960216,Mathematics,8
+2017,Montana,285.6004369,Mathematics,8
+2017,Nebraska,288.4059553,Mathematics,8
+2017,Nevada,275.3654555,Mathematics,8
+2017,New Hampshire,293.2906544,Mathematics,8
+2017,New Jersey,291.6985524,Mathematics,8
+2017,New Mexico,269.374084,Mathematics,8
+2017,New York,281.688,Mathematics,8
+2017,North Carolina,281.9260284,Mathematics,8
+2017,North Dakota,288.1723222,Mathematics,8
+2017,Ohio,287.7142663,Mathematics,8
+2017,Oklahoma,274.6888834,Mathematics,8
+2017,Oregon,282.1730284,Mathematics,8
+2017,Pennsylvania,286.3938323,Mathematics,8
+2017,Rhode Island,277.1801256,Mathematics,8
+2017,South Carolina,274.6738211,Mathematics,8
+2017,South Dakota,286.3761595,Mathematics,8
+2017,Tennessee,278.7777355,Mathematics,8
+2017,Texas,282.3205103,Mathematics,8
+2017,Utah,286.8165591,Mathematics,8
+2017,Vermont,287.6233882,Mathematics,8
+2017,Virginia,290.0814074,Mathematics,8
+2017,Washington,289.1312572,Mathematics,8
+2017,West Virginia,273.4158536,Mathematics,8
+2017,Wisconsin,288.1431443,Mathematics,8
+2017,Wyoming,288.7618117,Mathematics,8
+2016,Alabama,267.4336694,Mathematics,8
+2016,Alaska,278.754514,Mathematics,8
+2016,Arizona,282.5838174,Mathematics,8
+2016,Arkansas,274.4123319,Mathematics,8
+2016,California,275.9813866,Mathematics,8
+2016,Colorado,285.8934531,Mathematics,8
+2016,Connecticut,284.0505038,Mathematics,8
+2016,Delaware,278.9168714,Mathematics,8
+2016,District of Columbia,264.4197735,Mathematics,8
+2016,Florida,277.2221166,Mathematics,8
+2016,Georgia,279.8736422,Mathematics,8
+2016,Hawaii,278.3384954,Mathematics,8
+2016,Idaho,284.0570291,Mathematics,8
+2016,Illinois,281.7932825,Mathematics,8
+2016,Indiana,287.4404203,Mathematics,8
+2016,Iowa,286.3278191,Mathematics,8
+2016,Kansas,284.5773021,Mathematics,8
+2016,Kentucky,277.830711,Mathematics,8
+2016,Louisiana,267.4695577,Mathematics,8
+2016,Maine,284.4392422,Mathematics,8
+2016,Maryland,282.0296399,Mathematics,8
+2016,Massachusetts,296.9753983,Mathematics,8
+2016,Michigan,278.8370533,Mathematics,8
+2016,Minnesota,294.0550769,Mathematics,8
+2016,Mississippi,270.7476934,Mathematics,8
+2016,Missouri,280.7087237,Mathematics,8
+2016,Montana,286.5322212,Mathematics,8
+2016,Nebraska,287.4522594,Mathematics,8
+2016,Nevada,275.2686622,Mathematics,8
+2016,New Hampshire,293.8518366,Mathematics,8
+2016,New Jersey,292.5322453,Mathematics,8
+2016,New Mexico,270.1358092,Mathematics,8
+2016,New York,280.8886101,Mathematics,8
+2016,North Carolina,281.6285598,Mathematics,8
+2016,North Dakota,288.2082347,Mathematics,8
+2016,Ohio,286.3881107,Mathematics,8
+2016,Oklahoma,274.6374328,Mathematics,8
+2016,Oregon,282.4939639,Mathematics,8
+2016,Pennsylvania,285.0311239,Mathematics,8
+2016,Rhode Island,279.3126726,Mathematics,8
+2016,South Carolina,275.2508437,Mathematics,8
+2016,South Dakota,285.5087826,Mathematics,8
+2016,Tennessee,278.4905581,Mathematics,8
+2016,Texas,283.0570253,Mathematics,8
+2016,Utah,286.4667352,Mathematics,8
+2016,Vermont,288.9892897,Mathematics,8
+2016,Virginia,288.8953531,Mathematics,8
+2016,Washington,287.8221824,Mathematics,8
+2016,West Virginia,272.4332812,Mathematics,8
+2016,Wisconsin,288.6104468,Mathematics,8
+2016,Wyoming,287.7141794,Mathematics,8
+2015,Alabama,266.5553185,Mathematics,8
+2015,Alaska,280.4934562,Mathematics,8
+2015,Arizona,282.9194894,Mathematics,8
+2015,Arkansas,275.0647564,Mathematics,8
+2015,California,275.324573,Mathematics,8
+2015,Colorado,285.5391887,Mathematics,8
+2015,Connecticut,283.9566773,Mathematics,8
+2015,Delaware,279.8102438,Mathematics,8
+2015,District of Columbia,263.0597763,Mathematics,8
+2015,Florida,275.323818,Mathematics,8
+2015,Georgia,278.7117968,Mathematics,8
+2015,Hawaii,279.340145,Mathematics,8
+2015,Idaho,283.7423253,Mathematics,8
+2015,Illinois,281.9685673,Mathematics,8
+2015,Indiana,287.1752011,Mathematics,8
+2015,Iowa,286.41622,Mathematics,8
+2015,Kansas,283.8710963,Mathematics,8
+2015,Kentucky,277.9472601,Mathematics,8
+2015,Louisiana,268.4323551,Mathematics,8
+2015,Maine,284.875477,Mathematics,8
+2015,Maryland,283.1490341,Mathematics,8
+2015,Massachusetts,296.9085714,Mathematics,8
+2015,Michigan,278.1686519,Mathematics,8
+2015,Minnesota,294.147778,Mathematics,8
+2015,Mississippi,270.5804793,Mathematics,8
+2015,Missouri,280.8214257,Mathematics,8
+2015,Montana,287.4640055,Mathematics,8
+2015,Nebraska,286.4985635,Mathematics,8
+2015,Nevada,275.1718688,Mathematics,8
+2015,New Hampshire,294.4130187,Mathematics,8
+2015,New Jersey,293.3659382,Mathematics,8
+2015,New Mexico,270.8975344,Mathematics,8
+2015,New York,280.0892201,Mathematics,8
+2015,North Carolina,281.3310911,Mathematics,8
+2015,North Dakota,288.2441472,Mathematics,8
+2015,Ohio,285.0619551,Mathematics,8
+2015,Oklahoma,274.5859821,Mathematics,8
+2015,Oregon,282.8148994,Mathematics,8
+2015,Pennsylvania,283.6684154,Mathematics,8
+2015,Rhode Island,281.4452196,Mathematics,8
+2015,South Carolina,275.8278662,Mathematics,8
+2015,South Dakota,284.6414057,Mathematics,8
+2015,Tennessee,278.2033807,Mathematics,8
+2015,Texas,283.7935403,Mathematics,8
+2015,Utah,286.1169112,Mathematics,8
+2015,Vermont,290.3551912,Mathematics,8
+2015,Virginia,287.7092987,Mathematics,8
+2015,Washington,286.5131076,Mathematics,8
+2015,West Virginia,271.4507088,Mathematics,8
+2015,Wisconsin,289.0777492,Mathematics,8
+2015,Wyoming,286.6665471,Mathematics,8
+2014,Alabama,267.8747996,Mathematics,8
+2014,Alaska,281.0265145,Mathematics,8
+2014,Arizona,281.3208787,Mathematics,8
+2014,Arkansas,276.4897795,Mathematics,8
+2014,California,275.6129619,Mathematics,8
+2014,Colorado,287.6104944,Mathematics,8
+2014,Connecticut,284.6003248,Mathematics,8
+2014,Delaware,281.0742712,Mathematics,8
+2014,District of Columbia,264.159571,Mathematics,8
+2014,Florida,278.0898288,Mathematics,8
+2014,Georgia,278.9454539,Mathematics,8
+2014,Hawaii,280.3765337,Mathematics,8
+2014,Idaho,285.0781035,Mathematics,8
+2014,Illinois,283.4331073,Mathematics,8
+2014,Indiana,287.4714275,Mathematics,8
+2014,Iowa,285.7431789,Mathematics,8
+2014,Kansas,286.6946762,Mathematics,8
+2014,Kentucky,279.2963513,Mathematics,8
+2014,Louisiana,270.5966608,Mathematics,8
+2014,Maine,286.8033184,Mathematics,8
+2014,Maryland,284.8952076,Mathematics,8
+2014,Massachusetts,298.7384032,Mathematics,8
+2014,Michigan,279.1511245,Mathematics,8
+2014,Minnesota,294.3703753,Mathematics,8
+2014,Mississippi,270.8707233,Mathematics,8
+2014,Missouri,281.9049418,Mathematics,8
+2014,Montana,288.3462293,Mathematics,8
+2014,Nebraska,285.779956,Mathematics,8
+2014,Nevada,276.7292749,Mathematics,8
+2014,New Hampshire,295.039071,Mathematics,8
+2014,New Jersey,294.7096447,Mathematics,8
+2014,New Mexico,271.8296717,Mathematics,8
+2014,New York,280.948504,Mathematics,8
+2014,North Carolina,283.4882398,Mathematics,8
+2014,North Dakota,289.3796293,Mathematics,8
+2014,Ohio,287.295026,Mathematics,8
+2014,Oklahoma,275.0463571,Mathematics,8
+2014,Oregon,283.1697443,Mathematics,8
+2014,Pennsylvania,286.6460335,Mathematics,8
+2014,Rhode Island,282.7687159,Mathematics,8
+2014,South Carolina,277.8262374,Mathematics,8
+2014,South Dakota,285.9558982,Mathematics,8
+2014,Tennessee,277.961754,Mathematics,8
+2014,Texas,285.996254,Mathematics,8
+2014,Utah,285.2241987,Mathematics,8
+2014,Vermont,292.9123768,Mathematics,8
+2014,Virginia,287.9261291,Mathematics,8
+2014,Washington,288.2350482,Mathematics,8
+2014,West Virginia,272.9404218,Mathematics,8
+2014,Wisconsin,288.911765,Mathematics,8
+2014,Wyoming,287.3928422,Mathematics,8
+2013,Alabama,269.1942806,Mathematics,8
+2013,Alaska,281.5595728,Mathematics,8
+2013,Arizona,279.722268,Mathematics,8
+2013,Arkansas,277.9148025,Mathematics,8
+2013,California,275.9013507,Mathematics,8
+2013,Colorado,289.6818001,Mathematics,8
+2013,Connecticut,285.2439723,Mathematics,8
+2013,Delaware,282.3382986,Mathematics,8
+2013,District of Columbia,265.2593657,Mathematics,8
+2013,Florida,280.8558396,Mathematics,8
+2013,Georgia,279.1791109,Mathematics,8
+2013,Hawaii,281.4129223,Mathematics,8
+2013,Idaho,286.4138816,Mathematics,8
+2013,Illinois,284.8976472,Mathematics,8
+2013,Indiana,287.7676538,Mathematics,8
+2013,Iowa,285.0701378,Mathematics,8
+2013,Kansas,289.5182561,Mathematics,8
+2013,Kentucky,280.6454425,Mathematics,8
+2013,Louisiana,272.7609665,Mathematics,8
+2013,Maine,288.7311597,Mathematics,8
+2013,Maryland,286.6413811,Mathematics,8
+2013,Massachusetts,300.568235,Mathematics,8
+2013,Michigan,280.1335971,Mathematics,8
+2013,Minnesota,294.5929726,Mathematics,8
+2013,Mississippi,271.1609673,Mathematics,8
+2013,Missouri,282.9884579,Mathematics,8
+2013,Montana,289.228453,Mathematics,8
+2013,Nebraska,285.0613485,Mathematics,8
+2013,Nevada,278.2866809,Mathematics,8
+2013,New Hampshire,295.6651233,Mathematics,8
+2013,New Jersey,296.0533511,Mathematics,8
+2013,New Mexico,272.7618089,Mathematics,8
+2013,New York,281.8077878,Mathematics,8
+2013,North Carolina,285.6453884,Mathematics,8
+2013,North Dakota,290.5151113,Mathematics,8
+2013,Ohio,289.5280968,Mathematics,8
+2013,Oklahoma,275.506732,Mathematics,8
+2013,Oregon,283.5245891,Mathematics,8
+2013,Pennsylvania,289.6236516,Mathematics,8
+2013,Rhode Island,284.0922122,Mathematics,8
+2013,South Carolina,279.8246086,Mathematics,8
+2013,South Dakota,287.2703906,Mathematics,8
+2013,Tennessee,277.7201273,Mathematics,8
+2013,Texas,288.1989676,Mathematics,8
+2013,Utah,284.3314862,Mathematics,8
+2013,Vermont,295.4695624,Mathematics,8
+2013,Virginia,288.1429595,Mathematics,8
+2013,Washington,289.9569887,Mathematics,8
+2013,West Virginia,274.4301347,Mathematics,8
+2013,Wisconsin,288.7457808,Mathematics,8
+2013,Wyoming,288.1191373,Mathematics,8
+2012,Alabama,269.1453982,Mathematics,8
+2012,Alaska,282.4161854,Mathematics,8
+2012,Arizona,279.3778849,Mathematics,8
+2012,Arkansas,278.5015038,Mathematics,8
+2012,California,274.3355769,Mathematics,8
+2012,Colorado,290.7122365,Mathematics,8
+2012,Connecticut,286.1219585,Mathematics,8
+2012,Delaware,282.5541325,Mathematics,8
+2012,District of Columbia,262.8631218,Mathematics,8
+2012,Florida,279.3464374,Mathematics,8
+2012,Georgia,278.8313651,Mathematics,8
+2012,Hawaii,279.6245667,Mathematics,8
+2012,Idaho,286.5444725,Mathematics,8
+2012,Illinois,284.062891,Mathematics,8
+2012,Indiana,286.385285,Mathematics,8
+2012,Iowa,284.995487,Mathematics,8
+2012,Kansas,289.5687694,Mathematics,8
+2012,Kentucky,281.1271261,Mathematics,8
+2012,Louisiana,272.8021502,Mathematics,8
+2012,Maine,288.7317287,Mathematics,8
+2012,Maryland,287.3195917,Mathematics,8
+2012,Massachusetts,299.5403331,Mathematics,8
+2012,Michigan,280.1550576,Mathematics,8
+2012,Minnesota,294.7696977,Mathematics,8
+2012,Mississippi,270.1983065,Mathematics,8
+2012,Missouri,282.4680521,Mathematics,8
+2012,Montana,291.0681287,Mathematics,8
+2012,Nebraska,284.1291967,Mathematics,8
+2012,Nevada,278.1999173,Mathematics,8
+2012,New Hampshire,293.8869315,Mathematics,8
+2012,New Jersey,295.0960613,Mathematics,8
+2012,New Mexico,273.6082552,Mathematics,8
+2012,New York,281.130407,Mathematics,8
+2012,North Carolina,285.9562083,Mathematics,8
+2012,North Dakota,291.2567579,Mathematics,8
+2012,Ohio,289.0653468,Mathematics,8
+2012,Oklahoma,277.3431701,Mathematics,8
+2012,Oregon,283.021398,Mathematics,8
+2012,Pennsylvania,287.8631967,Mathematics,8
+2012,Rhode Island,283.4839359,Mathematics,8
+2012,South Carolina,280.4123712,Mathematics,8
+2012,South Dakota,288.9427937,Mathematics,8
+2012,Tennessee,275.8794188,Mathematics,8
+2012,Texas,289.2728385,Mathematics,8
+2012,Utah,283.8199092,Mathematics,8
+2012,Vermont,294.6760698,Mathematics,8
+2012,Virginia,288.6991854,Mathematics,8
+2012,Washington,289.0323753,Mathematics,8
+2012,West Virginia,273.8466539,Mathematics,8
+2012,Wisconsin,288.7058568,Mathematics,8
+2012,Wyoming,287.9435317,Mathematics,8
+2011,Alabama,269.0965158,Mathematics,8
+2011,Alaska,283.2727979,Mathematics,8
+2011,Arizona,279.0335017,Mathematics,8
+2011,Arkansas,279.088205,Mathematics,8
+2011,California,272.7698031,Mathematics,8
+2011,Colorado,291.7426729,Mathematics,8
+2011,Connecticut,286.9999447,Mathematics,8
+2011,Delaware,282.7699664,Mathematics,8
+2011,District of Columbia,260.4668778,Mathematics,8
+2011,Florida,277.8370352,Mathematics,8
+2011,Georgia,278.4836192,Mathematics,8
+2011,Hawaii,277.8362111,Mathematics,8
+2011,Idaho,286.6750633,Mathematics,8
+2011,Illinois,283.2281347,Mathematics,8
+2011,Indiana,285.0029161,Mathematics,8
+2011,Iowa,284.9208361,Mathematics,8
+2011,Kansas,289.6192827,Mathematics,8
+2011,Kentucky,281.6088097,Mathematics,8
+2011,Louisiana,272.8433339,Mathematics,8
+2011,Maine,288.7322976,Mathematics,8
+2011,Maryland,287.9978023,Mathematics,8
+2011,Massachusetts,298.5124311,Mathematics,8
+2011,Michigan,280.176518,Mathematics,8
+2011,Minnesota,294.9464228,Mathematics,8
+2011,Mississippi,269.2356456,Mathematics,8
+2011,Missouri,281.9476462,Mathematics,8
+2011,Montana,292.9078043,Mathematics,8
+2011,Nebraska,283.1970448,Mathematics,8
+2011,Nevada,278.1131537,Mathematics,8
+2011,New Hampshire,292.1087397,Mathematics,8
+2011,New Jersey,294.1387714,Mathematics,8
+2011,New Mexico,274.4547015,Mathematics,8
+2011,New York,280.4530261,Mathematics,8
+2011,North Carolina,286.2670282,Mathematics,8
+2011,North Dakota,291.9984045,Mathematics,8
+2011,Ohio,288.6025968,Mathematics,8
+2011,Oklahoma,279.1796082,Mathematics,8
+2011,Oregon,282.5182068,Mathematics,8
+2011,Pennsylvania,286.1027417,Mathematics,8
+2011,Rhode Island,282.8756596,Mathematics,8
+2011,South Carolina,281.0001337,Mathematics,8
+2011,South Dakota,290.6151968,Mathematics,8
+2011,Tennessee,274.0387103,Mathematics,8
+2011,Texas,290.3467094,Mathematics,8
+2011,Utah,283.3083321,Mathematics,8
+2011,Vermont,293.8825771,Mathematics,8
+2011,Virginia,289.2554112,Mathematics,8
+2011,Washington,288.1077619,Mathematics,8
+2011,West Virginia,273.2631731,Mathematics,8
+2011,Wisconsin,288.6659327,Mathematics,8
+2011,Wyoming,287.767926,Mathematics,8
+2010,Alabama,268.8103181,Mathematics,8
+2010,Alaska,283.1602304,Mathematics,8
+2010,Arizona,278.1828919,Mathematics,8
+2010,Arkansas,277.5438525,Mathematics,8
+2010,California,271.6091956,Mathematics,8
+2010,Colorado,289.5577902,Mathematics,8
+2010,Connecticut,287.8042291,Mathematics,8
+2010,Delaware,283.2997197,Mathematics,8
+2010,District of Columbia,257.0310324,Mathematics,8
+2010,Florida,278.5861497,Mathematics,8
+2010,Georgia,278.0224095,Mathematics,8
+2010,Hawaii,275.7974089,Mathematics,8
+2010,Idaho,286.9901392,Mathematics,8
+2010,Illinois,282.8297759,Mathematics,8
+2010,Indiana,285.906447,Mathematics,8
+2010,Iowa,284.5455074,Mathematics,8
+2010,Kansas,289.1078429,Mathematics,8
+2010,Kentucky,280.4465129,Mathematics,8
+2010,Louisiana,272.6116203,Mathematics,8
+2010,Maine,287.5468618,Mathematics,8
+2010,Maryland,288.1696838,Mathematics,8
+2010,Massachusetts,298.6833889,Mathematics,8
+2010,Michigan,279.2223431,Mathematics,8
+2010,Minnesota,294.6948715,Mathematics,8
+2010,Mississippi,267.1188019,Mathematics,8
+2010,Missouri,283.8778241,Mathematics,8
+2010,Montana,292.2253736,Mathematics,8
+2010,Nebraska,283.7280692,Mathematics,8
+2010,Nevada,276.1308477,Mathematics,8
+2010,New Hampshire,292.2152785,Mathematics,8
+2010,New Jersey,293.3979993,Mathematics,8
+2010,New Mexico,272.0794777,Mathematics,8
+2010,New York,281.5149708,Mathematics,8
+2010,North Carolina,285.2998318,Mathematics,8
+2010,North Dakota,292.4204465,Mathematics,8
+2010,Ohio,287.0928053,Mathematics,8
+2010,Oklahoma,277.4457825,Mathematics,8
+2010,Oregon,283.7775106,Mathematics,8
+2010,Pennsylvania,287.2034553,Mathematics,8
+2010,Rhode Island,280.3996895,Mathematics,8
+2010,South Carolina,280.6904946,Mathematics,8
+2010,South Dakota,290.6171623,Mathematics,8
+2010,Tennessee,274.4002657,Mathematics,8
+2010,Texas,288.5158931,Mathematics,8
+2010,Utah,283.688292,Mathematics,8
+2010,Vermont,293.3743368,Mathematics,8
+2010,Virginia,287.6625831,Mathematics,8
+2010,Washington,288.4150688,Mathematics,8
+2010,West Virginia,271.8394695,Mathematics,8
+2010,Wisconsin,288.4033295,Mathematics,8
+2010,Wyoming,286.93598,Mathematics,8
+2009,Alabama,268.5241203,Mathematics,8
+2009,Alaska,283.0476628,Mathematics,8
+2009,Arizona,277.332282,Mathematics,8
+2009,Arkansas,275.9995,Mathematics,8
+2009,California,270.4485881,Mathematics,8
+2009,Colorado,287.3729075,Mathematics,8
+2009,Connecticut,288.6085135,Mathematics,8
+2009,Delaware,283.829473,Mathematics,8
+2009,District of Columbia,253.5951869,Mathematics,8
+2009,Florida,279.3352641,Mathematics,8
+2009,Georgia,277.5611997,Mathematics,8
+2009,Hawaii,273.7586067,Mathematics,8
+2009,Idaho,287.3052151,Mathematics,8
+2009,Illinois,282.431417,Mathematics,8
+2009,Indiana,286.8099779,Mathematics,8
+2009,Iowa,284.1701786,Mathematics,8
+2009,Kansas,288.596403,Mathematics,8
+2009,Kentucky,279.2842161,Mathematics,8
+2009,Louisiana,272.3799067,Mathematics,8
+2009,Maine,286.3614259,Mathematics,8
+2009,Maryland,288.3415653,Mathematics,8
+2009,Massachusetts,298.8543466,Mathematics,8
+2009,Michigan,278.2681682,Mathematics,8
+2009,Minnesota,294.4433201,Mathematics,8
+2009,Mississippi,265.0019582,Mathematics,8
+2009,Missouri,285.8080019,Mathematics,8
+2009,Montana,291.5429429,Mathematics,8
+2009,Nebraska,284.2590935,Mathematics,8
+2009,Nevada,274.1485417,Mathematics,8
+2009,New Hampshire,292.3218172,Mathematics,8
+2009,New Jersey,292.6572271,Mathematics,8
+2009,New Mexico,269.7042538,Mathematics,8
+2009,New York,282.5769154,Mathematics,8
+2009,North Carolina,284.3326353,Mathematics,8
+2009,North Dakota,292.8424885,Mathematics,8
+2009,Ohio,285.5830138,Mathematics,8
+2009,Oklahoma,275.7119568,Mathematics,8
+2009,Oregon,285.0368144,Mathematics,8
+2009,Pennsylvania,288.3041689,Mathematics,8
+2009,Rhode Island,277.9237194,Mathematics,8
+2009,South Carolina,280.3808554,Mathematics,8
+2009,South Dakota,290.6191277,Mathematics,8
+2009,Tennessee,274.7618211,Mathematics,8
+2009,Texas,286.6850767,Mathematics,8
+2009,Utah,284.0682519,Mathematics,8
+2009,Vermont,292.8660964,Mathematics,8
+2009,Virginia,286.069755,Mathematics,8
+2009,Washington,288.7223756,Mathematics,8
+2009,West Virginia,270.4157659,Mathematics,8
+2009,Wisconsin,288.1407262,Mathematics,8
+2009,Wyoming,286.104034,Mathematics,8
+2008,Alabama,267.2621151,Mathematics,8
+2008,Alaska,282.8024085,Mathematics,8
+2008,Arizona,276.4403542,Mathematics,8
+2008,Arkansas,274.9496811,Mathematics,8
+2008,California,270.4151861,Mathematics,8
+2008,Colorado,286.7828319,Mathematics,8
+2008,Connecticut,285.5406518,Mathematics,8
+2008,Delaware,283.4107779,Mathematics,8
+2008,District of Columbia,250.8969647,Mathematics,8
+2008,Florida,278.3593807,Mathematics,8
+2008,Georgia,276.1699322,Mathematics,8
+2008,Hawaii,271.2653101,Mathematics,8
+2008,Idaho,285.4064055,Mathematics,8
+2008,Illinois,281.4642565,Mathematics,8
+2008,Indiana,285.9085944,Mathematics,8
+2008,Iowa,284.6985409,Mathematics,8
+2008,Kansas,289.3145014,Mathematics,8
+2008,Kentucky,278.994483,Mathematics,8
+2008,Louisiana,272.3831032,Mathematics,8
+2008,Maine,286.4168395,Mathematics,8
+2008,Maryland,287.0379153,Mathematics,8
+2008,Massachusetts,298.3888456,Mathematics,8
+2008,Michigan,277.5493427,Mathematics,8
+2008,Minnesota,293.1472183,Mathematics,8
+2008,Mississippi,264.9464385,Mathematics,8
+2008,Missouri,283.2137701,Mathematics,8
+2008,Montana,289.309236,Mathematics,8
+2008,Nebraska,283.9548461,Mathematics,8
+2008,Nevada,272.4762831,Mathematics,8
+2008,New Hampshire,289.9394391,Mathematics,8
+2008,New Jersey,290.6203393,Mathematics,8
+2008,New Mexico,268.6211663,Mathematics,8
+2008,New York,281.3590463,Mathematics,8
+2008,North Carolina,284.1066521,Mathematics,8
+2008,North Dakota,292.2020502,Mathematics,8
+2008,Ohio,285.2173267,Mathematics,8
+2008,Oklahoma,275.1234731,Mathematics,8
+2008,Oregon,284.4315458,Mathematics,8
+2008,Pennsylvania,287.2355161,Mathematics,8
+2008,Rhode Island,276.655355,Mathematics,8
+2008,South Carolina,280.9422285,Mathematics,8
+2008,South Dakota,289.5415265,Mathematics,8
+2008,Tennessee,274.3703039,Mathematics,8
+2008,Texas,286.2778926,Mathematics,8
+2008,Utah,282.5778628,Mathematics,8
+2008,Vermont,291.9384351,Mathematics,8
+2008,Virginia,286.84783,Mathematics,8
+2008,Washington,286.79259,Mathematics,8
+2008,West Virginia,270.2499298,Mathematics,8
+2008,Wisconsin,286.8793344,Mathematics,8
+2008,Wyoming,286.5459028,Mathematics,8
+2007,Alabama,266.0001099,Mathematics,8
+2007,Alaska,282.5571541,Mathematics,8
+2007,Arizona,275.5484264,Mathematics,8
+2007,Arkansas,273.8998622,Mathematics,8
+2007,California,270.381784,Mathematics,8
+2007,Colorado,286.1927562,Mathematics,8
+2007,Connecticut,282.4727901,Mathematics,8
+2007,Delaware,282.9920827,Mathematics,8
+2007,District of Columbia,248.1987424,Mathematics,8
+2007,Florida,277.3834973,Mathematics,8
+2007,Georgia,274.7786646,Mathematics,8
+2007,Hawaii,268.7720134,Mathematics,8
+2007,Idaho,283.5075958,Mathematics,8
+2007,Illinois,280.497096,Mathematics,8
+2007,Indiana,285.0072109,Mathematics,8
+2007,Iowa,285.2269031,Mathematics,8
+2007,Kansas,290.0325998,Mathematics,8
+2007,Kentucky,278.7047499,Mathematics,8
+2007,Louisiana,272.3862996,Mathematics,8
+2007,Maine,286.4722531,Mathematics,8
+2007,Maryland,285.7342652,Mathematics,8
+2007,Massachusetts,297.9233445,Mathematics,8
+2007,Michigan,276.8305171,Mathematics,8
+2007,Minnesota,291.8511165,Mathematics,8
+2007,Mississippi,264.8909187,Mathematics,8
+2007,Missouri,280.6195383,Mathematics,8
+2007,Montana,287.075529,Mathematics,8
+2007,Nebraska,283.6505986,Mathematics,8
+2007,Nevada,270.8040244,Mathematics,8
+2007,New Hampshire,287.557061,Mathematics,8
+2007,New Jersey,288.5834514,Mathematics,8
+2007,New Mexico,267.5380787,Mathematics,8
+2007,New York,280.1411772,Mathematics,8
+2007,North Carolina,283.8806688,Mathematics,8
+2007,North Dakota,291.5616119,Mathematics,8
+2007,Ohio,284.8516395,Mathematics,8
+2007,Oklahoma,274.5349894,Mathematics,8
+2007,Oregon,283.8262772,Mathematics,8
+2007,Pennsylvania,286.1668633,Mathematics,8
+2007,Rhode Island,275.3869905,Mathematics,8
+2007,South Carolina,281.5036015,Mathematics,8
+2007,South Dakota,288.4639253,Mathematics,8
+2007,Tennessee,273.9787866,Mathematics,8
+2007,Texas,285.8707084,Mathematics,8
+2007,Utah,281.0874737,Mathematics,8
+2007,Vermont,291.0107738,Mathematics,8
+2007,Virginia,287.625905,Mathematics,8
+2007,Washington,284.8628043,Mathematics,8
+2007,West Virginia,270.0840936,Mathematics,8
+2007,Wisconsin,285.6179425,Mathematics,8
+2007,Wyoming,286.9877715,Mathematics,8
+2006,Alabama,264.105605,Mathematics,8
+2006,Alaska,280.7579318,Mathematics,8
+2006,Arizona,274.9267582,Mathematics,8
+2006,Arkansas,272.7681053,Mathematics,8
+2006,California,269.4699563,Mathematics,8
+2006,Colorado,283.5083818,Mathematics,8
+2006,Connecticut,281.7708716,Mathematics,8
+2006,Delaware,281.9728128,Mathematics,8
+2006,District of Columbia,246.7072616,Mathematics,8
+2006,Florida,275.7159371,Mathematics,8
+2006,Georgia,273.4851145,Mathematics,8
+2006,Hawaii,267.2006663,Mathematics,8
+2006,Idaho,282.2372462,Mathematics,8
+2006,Illinois,279.0846675,Mathematics,8
+2006,Indiana,283.3610782,Mathematics,8
+2006,Iowa,284.518916,Mathematics,8
+2006,Kansas,287.0313267,Mathematics,8
+2006,Kentucky,276.3438886,Mathematics,8
+2006,Louisiana,270.0706652,Mathematics,8
+2006,Maine,283.765397,Mathematics,8
+2006,Maryland,281.8325299,Mathematics,8
+2006,Massachusetts,294.7184428,Mathematics,8
+2006,Michigan,277.0885996,Mathematics,8
+2006,Minnesota,290.9630562,Mathematics,8
+2006,Mississippi,263.6735807,Mathematics,8
+2006,Missouri,278.5347388,Mathematics,8
+2006,Montana,286.7537651,Mathematics,8
+2006,Nebraska,283.8067948,Mathematics,8
+2006,Nevada,270.354805,Mathematics,8
+2006,New Hampshire,286.405209,Mathematics,8
+2006,New Jersey,286.2430278,Mathematics,8
+2006,New Mexico,265.4066209,Mathematics,8
+2006,New York,279.9287155,Mathematics,8
+2006,North Carolina,282.8529027,Mathematics,8
+2006,North Dakota,289.2612827,Mathematics,8
+2006,Ohio,284.0517071,Mathematics,8
+2006,Oklahoma,272.9474459,Mathematics,8
+2006,Oregon,283.0318013,Mathematics,8
+2006,Pennsylvania,283.4403492,Mathematics,8
+2006,Rhode Island,273.8660043,Mathematics,8
+2006,South Carolina,281.3689613,Mathematics,8
+2006,South Dakota,287.8837717,Mathematics,8
+2006,Tennessee,272.2516817,Mathematics,8
+2006,Texas,283.4867767,Mathematics,8
+2006,Utah,280.1217986,Mathematics,8
+2006,Vermont,289.1836307,Mathematics,8
+2006,Virginia,285.9987666,Mathematics,8
+2006,Washington,284.957517,Mathematics,8
+2006,West Virginia,269.5917932,Mathematics,8
+2006,Wisconsin,285.0797496,Mathematics,8
+2006,Wyoming,284.5441906,Mathematics,8
+2005,Alabama,262.2111,Mathematics,8
+2005,Alaska,278.9587094,Mathematics,8
+2005,Arizona,274.30509,Mathematics,8
+2005,Arkansas,271.6363484,Mathematics,8
+2005,California,268.5581286,Mathematics,8
+2005,Colorado,280.8240073,Mathematics,8
+2005,Connecticut,281.068953,Mathematics,8
+2005,Delaware,280.9535428,Mathematics,8
+2005,District of Columbia,245.2157808,Mathematics,8
+2005,Florida,274.0483769,Mathematics,8
+2005,Georgia,272.1915644,Mathematics,8
+2005,Hawaii,265.6293191,Mathematics,8
+2005,Idaho,280.9668966,Mathematics,8
+2005,Illinois,277.6722389,Mathematics,8
+2005,Indiana,281.7149455,Mathematics,8
+2005,Iowa,283.8109288,Mathematics,8
+2005,Kansas,284.0300535,Mathematics,8
+2005,Kentucky,273.9830272,Mathematics,8
+2005,Louisiana,267.7550308,Mathematics,8
+2005,Maine,281.0585409,Mathematics,8
+2005,Maryland,277.9307946,Mathematics,8
+2005,Massachusetts,291.5135411,Mathematics,8
+2005,Michigan,277.346682,Mathematics,8
+2005,Minnesota,290.0749958,Mathematics,8
+2005,Mississippi,262.4562427,Mathematics,8
+2005,Missouri,276.4499393,Mathematics,8
+2005,Montana,286.4320012,Mathematics,8
+2005,Nebraska,283.962991,Mathematics,8
+2005,Nevada,269.9055855,Mathematics,8
+2005,New Hampshire,285.253357,Mathematics,8
+2005,New Jersey,283.9026042,Mathematics,8
+2005,New Mexico,263.275163,Mathematics,8
+2005,New York,279.7162537,Mathematics,8
+2005,North Carolina,281.8251366,Mathematics,8
+2005,North Dakota,286.9609534,Mathematics,8
+2005,Ohio,283.2517747,Mathematics,8
+2005,Oklahoma,271.3599024,Mathematics,8
+2005,Oregon,282.2373254,Mathematics,8
+2005,Pennsylvania,280.7138351,Mathematics,8
+2005,Rhode Island,272.3450181,Mathematics,8
+2005,South Carolina,281.2343211,Mathematics,8
+2005,South Dakota,287.303618,Mathematics,8
+2005,Tennessee,270.5245768,Mathematics,8
+2005,Texas,281.102845,Mathematics,8
+2005,Utah,279.1561234,Mathematics,8
+2005,Vermont,287.3564876,Mathematics,8
+2005,Virginia,284.3716282,Mathematics,8
+2005,Washington,285.0522297,Mathematics,8
+2005,West Virginia,269.0994928,Mathematics,8
+2005,Wisconsin,284.5415566,Mathematics,8
+2005,Wyoming,282.1006096,Mathematics,8
+2004,Alabama,262.0750611,Mathematics,8
+2004,Alaska,278.9918897,Mathematics,8
+2004,Arizona,272.7412203,Mathematics,8
+2004,Arkansas,268.7039689,Mathematics,8
+2004,California,267.8038146,Mathematics,8
+2004,Colorado,282.1119329,Mathematics,8
+2004,Connecticut,282.3993821,Mathematics,8
+2004,Delaware,279.0559559,Mathematics,8
+2004,District of Columbia,244.1377095,Mathematics,8
+2004,Florida,272.7099336,Mathematics,8
+2004,Georgia,270.9342868,Mathematics,8
+2004,Hawaii,265.6789501,Mathematics,8
+2004,Idaho,280.4530817,Mathematics,8
+2004,Illinois,277.41616,Mathematics,8
+2004,Indiana,281.4679427,Mathematics,8
+2004,Iowa,283.8821368,Mathematics,8
+2004,Kansas,284.1105708,Mathematics,8
+2004,Kentucky,274.1307497,Mathematics,8
+2004,Louisiana,267.0416951,Mathematics,8
+2004,Maine,281.4811571,Mathematics,8
+2004,Maryland,277.8234536,Mathematics,8
+2004,Massachusetts,289.0171178,Mathematics,8
+2004,Michigan,276.8942718,Mathematics,8
+2004,Minnesota,290.3775259,Mathematics,8
+2004,Mississippi,261.6840882,Mathematics,8
+2004,Missouri,277.6080948,Mathematics,8
+2004,Montana,286.1800119,Mathematics,8
+2004,Nebraska,283.0783735,Mathematics,8
+2004,Nevada,268.9743616,Mathematics,8
+2004,New Hampshire,285.7259129,Mathematics,8
+2004,New Jersey,282.6548621,Mathematics,8
+2004,New Mexico,263.2740349,Mathematics,8
+2004,New York,279.7327554,Mathematics,8
+2004,North Carolina,281.5327436,Mathematics,8
+2004,North Dakota,287.052797,Mathematics,8
+2004,Ohio,282.4295351,Mathematics,8
+2004,Oklahoma,271.6325269,Mathematics,8
+2004,Oregon,281.5648982,Mathematics,8
+2004,Pennsylvania,279.6257966,Mathematics,8
+2004,Rhode Island,272.1718563,Mathematics,8
+2004,South Carolina,279.2673854,Mathematics,8
+2004,South Dakota,286.0926772,Mathematics,8
+2004,Tennessee,269.3501527,Mathematics,8
+2004,Texas,279.077747,Mathematics,8
+2004,Utah,279.9007466,Mathematics,8
+2004,Vermont,286.5010299,Mathematics,8
+2004,Virginia,283.0241358,Mathematics,8
+2004,Washington,283.1017971,Mathematics,8
+2004,West Virginia,269.9349231,Mathematics,8
+2004,Wisconsin,284.2287112,Mathematics,8
+2004,Wyoming,282.8019798,Mathematics,8
+2003,Alabama,261.9390222,Mathematics,8
+2003,Alaska,279.0250699,Mathematics,8
+2003,Arizona,271.1773505,Mathematics,8
+2003,Arkansas,265.7715893,Mathematics,8
+2003,California,267.0495006,Mathematics,8
+2003,Colorado,283.3998585,Mathematics,8
+2003,Connecticut,283.7298112,Mathematics,8
+2003,Delaware,277.1583689,Mathematics,8
+2003,District of Columbia,243.0596382,Mathematics,8
+2003,Florida,271.3714902,Mathematics,8
+2003,Georgia,269.6770092,Mathematics,8
+2003,Hawaii,265.728581,Mathematics,8
+2003,Idaho,279.9392668,Mathematics,8
+2003,Illinois,277.160081,Mathematics,8
+2003,Indiana,281.2209398,Mathematics,8
+2003,Iowa,283.9533447,Mathematics,8
+2003,Kansas,284.1910881,Mathematics,8
+2003,Kentucky,274.2784722,Mathematics,8
+2003,Louisiana,266.3283593,Mathematics,8
+2003,Maine,281.9037733,Mathematics,8
+2003,Maryland,277.7161125,Mathematics,8
+2003,Massachusetts,286.5206945,Mathematics,8
+2003,Michigan,276.4418616,Mathematics,8
+2003,Minnesota,290.680056,Mathematics,8
+2003,Mississippi,260.9119336,Mathematics,8
+2003,Missouri,278.7662503,Mathematics,8
+2003,Montana,285.9280226,Mathematics,8
+2003,Nebraska,282.193756,Mathematics,8
+2003,Nevada,268.0431377,Mathematics,8
+2003,New Hampshire,286.1984687,Mathematics,8
+2003,New Jersey,281.4071199,Mathematics,8
+2003,New Mexico,263.2729067,Mathematics,8
+2003,New York,279.749257,Mathematics,8
+2003,North Carolina,281.2403506,Mathematics,8
+2003,North Dakota,287.1446405,Mathematics,8
+2003,Ohio,281.6072954,Mathematics,8
+2003,Oklahoma,271.9051513,Mathematics,8
+2003,Oregon,280.8924709,Mathematics,8
+2003,Pennsylvania,278.5377581,Mathematics,8
+2003,Rhode Island,271.9986944,Mathematics,8
+2003,South Carolina,277.3004496,Mathematics,8
+2003,South Dakota,284.8817364,Mathematics,8
+2003,Tennessee,268.1757286,Mathematics,8
+2003,Texas,277.052649,Mathematics,8
+2003,Utah,280.6453697,Mathematics,8
+2003,Vermont,285.6455722,Mathematics,8
+2003,Virginia,281.6766434,Mathematics,8
+2003,Washington,281.1513644,Mathematics,8
+2003,West Virginia,270.7703534,Mathematics,8
+2003,Wisconsin,283.9158657,Mathematics,8
+2003,Wyoming,283.5033499,Mathematics,8
+2000,Alabama,262.1582055,Mathematics,8
+2000,Alaska,—,Mathematics,8
+2000,Arizona,270.7154059,Mathematics,8
+2000,Arkansas,261.3637127,Mathematics,8
+2000,California,262.1710266,Mathematics,8
+2000,Colorado,—,Mathematics,8
+2000,Connecticut,281.9024856,Mathematics,8
+2000,Delaware,—,Mathematics,8
+2000,District of Columbia,234.4287981,Mathematics,8
+2000,Florida,—,Mathematics,8
+2000,Georgia,266.3320473,Mathematics,8
+2000,Hawaii,262.7725605,Mathematics,8
+2000,Idaho,277.9179135,Mathematics,8
+2000,Illinois,276.909459,Mathematics,8
+2000,Indiana,283.0512293,Mathematics,8
+2000,Iowa,—,Mathematics,8
+2000,Kansas,283.6796191,Mathematics,8
+2000,Kentucky,271.5615114,Mathematics,8
+2000,Louisiana,258.9820018,Mathematics,8
+2000,Maine,283.6417036,Mathematics,8
+2000,Maryland,276.0143601,Mathematics,8
+2000,Massachusetts,283.1232456,Mathematics,8
+2000,Michigan,278.4526667,Mathematics,8
+2000,Minnesota,287.6519422,Mathematics,8
+2000,Mississippi,254.0339003,Mathematics,8
+2000,Missouri,273.5757804,Mathematics,8
+2000,Montana,286.584607,Mathematics,8
+2000,Nebraska,280.6180687,Mathematics,8
+2000,Nevada,268.1815991,Mathematics,8
+2000,New Hampshire,—,Mathematics,8
+2000,New Jersey,—,Mathematics,8
+2000,New Mexico,259.844673,Mathematics,8
+2000,New York,276.2628588,Mathematics,8
+2000,North Carolina,280.1279472,Mathematics,8
+2000,North Dakota,283.0738441,Mathematics,8
+2000,Ohio,282.6727535,Mathematics,8
+2000,Oklahoma,271.6457939,Mathematics,8
+2000,Oregon,280.6402228,Mathematics,8
+2000,Pennsylvania,—,Mathematics,8
+2000,Rhode Island,273.4257851,Mathematics,8
+2000,South Carolina,266.3536995,Mathematics,8
+2000,South Dakota,—,Mathematics,8
+2000,Tennessee,263.4365997,Mathematics,8
+2000,Texas,274.8460159,Mathematics,8
+2000,Utah,275.4367099,Mathematics,8
+2000,Vermont,283.4083814,Mathematics,8
+2000,Virginia,276.6749915,Mathematics,8
+2000,Washington,—,Mathematics,8
+2000,West Virginia,270.7800763,Mathematics,8
+2000,Wisconsin,‡,Mathematics,8
+2000,Wyoming,276.6899803,Mathematics,8
+1996,Alabama,256.5948632,Mathematics,8
+1996,Alaska,277.6430714,Mathematics,8
+1996,Arizona,267.8748343,Mathematics,8
+1996,Arkansas,261.6527453,Mathematics,8
+1996,California,262.7724784,Mathematics,8
+1996,Colorado,275.6082142,Mathematics,8
+1996,Connecticut,279.5912449,Mathematics,8
+1996,Delaware,266.7336733,Mathematics,8
+1996,District of Columbia,232.8315095,Mathematics,8
+1996,Florida,263.6393936,Mathematics,8
+1996,Georgia,262.4660209,Mathematics,8
+1996,Hawaii,262.1300817,Mathematics,8
+1996,Idaho,—,Mathematics,8
+1996,Illinois,—,Mathematics,8
+1996,Indiana,275.5290368,Mathematics,8
+1996,Iowa,283.9863686,Mathematics,8
+1996,Kansas,—,Mathematics,8
+1996,Kentucky,266.591684,Mathematics,8
+1996,Louisiana,252.3803947,Mathematics,8
+1996,Maine,284.0598574,Mathematics,8
+1996,Maryland,269.6814314,Mathematics,8
+1996,Massachusetts,277.565642,Mathematics,8
+1996,Michigan,276.8660782,Mathematics,8
+1996,Minnesota,284.0489446,Mathematics,8
+1996,Mississippi,250.2154891,Mathematics,8
+1996,Missouri,273.2848872,Mathematics,8
+1996,Montana,283.00387,Mathematics,8
+1996,Nebraska,282.7696069,Mathematics,8
+1996,Nevada,‡,Mathematics,8
+1996,New Hampshire,‡,Mathematics,8
+1996,New Jersey,‡,Mathematics,8
+1996,New Mexico,261.9703667,Mathematics,8
+1996,New York,270.231486,Mathematics,8
+1996,North Carolina,267.8345603,Mathematics,8
+1996,North Dakota,284.222268,Mathematics,8
+1996,Ohio,—,Mathematics,8
+1996,Oklahoma,—,Mathematics,8
+1996,Oregon,276.3415132,Mathematics,8
+1996,Pennsylvania,—,Mathematics,8
+1996,Rhode Island,268.8773081,Mathematics,8
+1996,South Carolina,260.7754476,Mathematics,8
+1996,South Dakota,—,Mathematics,8
+1996,Tennessee,263.118935,Mathematics,8
+1996,Texas,270.1995776,Mathematics,8
+1996,Utah,276.7731058,Mathematics,8
+1996,Vermont,279.253243,Mathematics,8
+1996,Virginia,269.7544047,Mathematics,8
+1996,Washington,276.1171196,Mathematics,8
+1996,West Virginia,264.8652054,Mathematics,8
+1996,Wisconsin,282.8487417,Mathematics,8
+1996,Wyoming,274.778947,Mathematics,8
+1992,Alabama,252.1875224,Mathematics,8
+1992,Alaska,—,Mathematics,8
+1992,Arizona,265.3662778,Mathematics,8
+1992,Arkansas,256.3120904,Mathematics,8
+1992,California,260.8922468,Mathematics,8
+1992,Colorado,272.3984329,Mathematics,8
+1992,Connecticut,273.7393446,Mathematics,8
+1992,Delaware,262.8685854,Mathematics,8
+1992,District of Columbia,234.9246213,Mathematics,8
+1992,Florida,259.9088482,Mathematics,8
+1992,Georgia,259.3594336,Mathematics,8
+1992,Hawaii,257.4108874,Mathematics,8
+1992,Idaho,275.0902941,Mathematics,8
+1992,Illinois,—,Mathematics,8
+1992,Indiana,270.0989439,Mathematics,8
+1992,Iowa,283.360009,Mathematics,8
+1992,Kansas,—,Mathematics,8
+1992,Kentucky,262.2412816,Mathematics,8
+1992,Louisiana,249.9839259,Mathematics,8
+1992,Maine,278.6353841,Mathematics,8
+1992,Maryland,264.8254931,Mathematics,8
+1992,Massachusetts,272.7832013,Mathematics,8
+1992,Michigan,267.3531943,Mathematics,8
+1992,Minnesota,282.3922046,Mathematics,8
+1992,Mississippi,246.4580354,Mathematics,8
+1992,Missouri,271.1315447,Mathematics,8
+1992,Montana,—,Mathematics,8
+1992,Nebraska,277.6545234,Mathematics,8
+1992,Nevada,—,Mathematics,8
+1992,New Hampshire,278.2163256,Mathematics,8
+1992,New Jersey,271.9055612,Mathematics,8
+1992,New Mexico,259.6067177,Mathematics,8
+1992,New York,266.4223001,Mathematics,8
+1992,North Carolina,258.4053748,Mathematics,8
+1992,North Dakota,283.2130747,Mathematics,8
+1992,Ohio,268.1241978,Mathematics,8
+1992,Oklahoma,268.1319896,Mathematics,8
+1992,Oregon,—,Mathematics,8
+1992,Pennsylvania,271.3784388,Mathematics,8
+1992,Rhode Island,265.9071091,Mathematics,8
+1992,South Carolina,260.772544,Mathematics,8
+1992,South Dakota,—,Mathematics,8
+1992,Tennessee,258.8280481,Mathematics,8
+1992,Texas,264.5928284,Mathematics,8
+1992,Utah,274.3431771,Mathematics,8
+1992,Vermont,—,Mathematics,8
+1992,Virginia,267.8637263,Mathematics,8
+1992,Washington,—,Mathematics,8
+1992,West Virginia,259.0864484,Mathematics,8
+1992,Wisconsin,277.8791346,Mathematics,8
+1992,Wyoming,275.0800761,Mathematics,8
+1990,Alabama,252.8636599,Mathematics,8
+1990,Alaska,—,Mathematics,8
+1990,Arizona,259.5900676,Mathematics,8
+1990,Arkansas,256.2139901,Mathematics,8
+1990,California,256.3248201,Mathematics,8
+1990,Colorado,267.3662899,Mathematics,8
+1990,Connecticut,269.866419,Mathematics,8
+1990,Delaware,260.6968587,Mathematics,8
+1990,District of Columbia,231.3661967,Mathematics,8
+1990,Florida,255.3184287,Mathematics,8
+1990,Georgia,258.8496634,Mathematics,8
+1990,Hawaii,251.0213165,Mathematics,8
+1990,Idaho,271.4497726,Mathematics,8
+1990,Illinois,260.5514343,Mathematics,8
+1990,Indiana,267.2659149,Mathematics,8
+1990,Iowa,277.9685695,Mathematics,8
+1990,Kansas,—,Mathematics,8
+1990,Kentucky,257.0972059,Mathematics,8
+1990,Louisiana,246.442553,Mathematics,8
+1990,Maine,—,Mathematics,8
+1990,Maryland,260.7655902,Mathematics,8
+1990,Massachusetts,—,Mathematics,8
+1990,Michigan,264.3983781,Mathematics,8
+1990,Minnesota,275.391079,Mathematics,8
+1990,Mississippi,—,Mathematics,8
+1990,Missouri,—,Mathematics,8
+1990,Montana,280.4973424,Mathematics,8
+1990,Nebraska,275.6739621,Mathematics,8
+1990,Nevada,—,Mathematics,8
+1990,New Hampshire,273.1472488,Mathematics,8
+1990,New Jersey,269.6640759,Mathematics,8
+1990,New Mexico,256.4229885,Mathematics,8
+1990,New York,260.7958126,Mathematics,8
+1990,North Carolina,250.3484872,Mathematics,8
+1990,North Dakota,281.1004282,Mathematics,8
+1990,Ohio,263.9744993,Mathematics,8
+1990,Oklahoma,263.1784748,Mathematics,8
+1990,Oregon,271.3624942,Mathematics,8
+1990,Pennsylvania,266.3639447,Mathematics,8
+1990,Rhode Island,260.0408972,Mathematics,8
+1990,South Carolina,—,Mathematics,8
+1990,South Dakota,—,Mathematics,8
+1990,Tennessee,—,Mathematics,8
+1990,Texas,258.1899869,Mathematics,8
+1990,Utah,—,Mathematics,8
+1990,Vermont,—,Mathematics,8
+1990,Virginia,264.2730113,Mathematics,8
+1990,Washington,—,Mathematics,8
+1990,West Virginia,255.8990601,Mathematics,8
+1990,Wisconsin,274.4873723,Mathematics,8
+1990,Wyoming,272.1479655,Mathematics,8
+2017,Alabama,257.6865203,Reading,8
+2017,Alaska,257.6674968,Reading,8
+2017,Arizona,262.9574567,Reading,8
+2017,Arkansas,259.9557985,Reading,8
+2017,California,262.52063,Reading,8
+2017,Colorado,270.3386885,Reading,8
+2017,Connecticut,272.5377115,Reading,8
+2017,Delaware,263.0890898,Reading,8
+2017,District of Columbia,246.7877554,Reading,8
+2017,DoDEA,280.49913,Reading,8
+2017,Florida,266.553369,Reading,8
+2017,Georgia,266.3304408,Reading,8
+2017,Hawaii,260.9823189,Reading,8
+2017,Idaho,269.6730954,Reading,8
+2017,Illinois,266.9285498,Reading,8
+2017,Indiana,272.0238757,Reading,8
+2017,Iowa,267.6756789,Reading,8
+2017,Kansas,267.4900278,Reading,8
+2017,Kentucky,265.133438,Reading,8
+2017,Louisiana,256.7514712,Reading,8
+2017,Maine,268.9306324,Reading,8
+2017,Maryland,267.2505327,Reading,8
+2017,Massachusetts,277.7825886,Reading,8
+2017,Michigan,265.4689275,Reading,8
+2017,Minnesota,268.6168223,Reading,8
+2017,Mississippi,256.3447011,Reading,8
+2017,Missouri,266.0350069,Reading,8
+2017,Montana,267.2082193,Reading,8
+2017,Nebraska,268.5285553,Reading,8
+2017,Nevada,259.8064073,Reading,8
+2017,New Hampshire,274.7860397,Reading,8
+2017,New Jersey,275.0445523,Reading,8
+2017,New Mexico,255.5785431,Reading,8
+2017,New York,264.1575842,Reading,8
+2017,North Carolina,262.7204769,Reading,8
+2017,North Dakota,265.0819218,Reading,8
+2017,Ohio,268.4506416,Reading,8
+2017,Oklahoma,261.2369335,Reading,8
+2017,Oregon,266.2166842,Reading,8
+2017,Pennsylvania,269.5538233,Reading,8
+2017,Rhode Island,265.76786,Reading,8
+2017,South Carolina,259.7530024,Reading,8
+2017,South Dakota,267.3557266,Reading,8
+2017,Tennessee,262.0468529,Reading,8
+2017,Texas,260.3425765,Reading,8
+2017,Utah,268.7524197,Reading,8
+2017,Vermont,273.4026403,Reading,8
+2017,Virginia,267.7447785,Reading,8
+2017,Washington,271.617023,Reading,8
+2017,West Virginia,258.7003036,Reading,8
+2017,Wisconsin,269.3714564,Reading,8
+2017,Wyoming,269.0200282,Reading,8
+2016,Alabama,258.7537615,Reading,8
+2016,Alaska,260.3170188,Reading,8
+2016,Arizona,262.7693918,Reading,8
+2016,Arkansas,258.768268,Reading,8
+2016,California,258.9868426,Reading,8
+2016,Colorado,268.0732253,Reading,8
+2016,Connecticut,273.0480304,Reading,8
+2016,Delaware,262.6132907,Reading,8
+2016,District of Columbia,247.6534449,Reading,8
+2016,DoDEA,277.1913634,Reading,8
+2016,Florida,263.3830014,Reading,8
+2016,Georgia,262.2686053,Reading,8
+2016,Hawaii,257.3504398,Reading,8
+2016,Idaho,268.5534796,Reading,8
+2016,Illinois,266.8067283,Reading,8
+2016,Indiana,268.2534677,Reading,8
+2016,Iowa,268.2005963,Reading,8
+2016,Kansas,266.7655306,Reading,8
+2016,Kentucky,267.7729001,Reading,8
+2016,Louisiana,255.4694178,Reading,8
+2016,Maine,268.3912363,Reading,8
+2016,Maryland,267.9055297,Reading,8
+2016,Massachusetts,274.4975681,Reading,8
+2016,Michigan,264.4967551,Reading,8
+2016,Minnesota,270.2368178,Reading,8
+2016,Mississippi,251.9761652,Reading,8
+2016,Missouri,266.8763518,Reading,8
+2016,Montana,269.9567776,Reading,8
+2016,Nebraska,269.4262109,Reading,8
+2016,Nevada,259.4173764,Reading,8
+2016,New Hampshire,274.8067463,Reading,8
+2016,New Jersey,270.8537115,Reading,8
+2016,New Mexico,253.2277676,Reading,8
+2016,New York,263.2476586,Reading,8
+2016,North Carolina,260.5945566,Reading,8
+2016,North Dakota,266.955323,Reading,8
+2016,Ohio,265.8792203,Reading,8
+2016,Oklahoma,262.6731459,Reading,8
+2016,Oregon,267.6705197,Reading,8
+2016,Pennsylvania,268.7461208,Reading,8
+2016,Rhode Island,265.0508578,Reading,8
+2016,South Carolina,260.3314228,Reading,8
+2016,South Dakota,267.079865,Reading,8
+2016,Tennessee,264.771229,Reading,8
+2016,Texas,260.655136,Reading,8
+2016,Utah,269.4306647,Reading,8
+2016,Vermont,273.9618314,Reading,8
+2016,Virginia,266.8360535,Reading,8
+2016,Washington,267.2508807,Reading,8
+2016,West Virginia,260.1852726,Reading,8
+2016,Wisconsin,269.5337264,Reading,8
+2016,Wyoming,268.8033631,Reading,8
+2015,Alabama,258.7537615,Reading,8
+2015,Alaska,260.3170188,Reading,8
+2015,Arizona,262.7693918,Reading,8
+2015,Arkansas,258.768268,Reading,8
+2015,California,258.9868426,Reading,8
+2015,Colorado,268.0732253,Reading,8
+2015,Connecticut,273.0480304,Reading,8
+2015,Delaware,262.6132907,Reading,8
+2015,District of Columbia,247.6534449,Reading,8
+2015,DoDEA,277.1913634,Reading,8
+2015,Florida,263.3830014,Reading,8
+2015,Georgia,262.2686053,Reading,8
+2015,Hawaii,257.3504398,Reading,8
+2015,Idaho,268.5534796,Reading,8
+2015,Illinois,266.8067283,Reading,8
+2015,Indiana,268.2534677,Reading,8
+2015,Iowa,268.2005963,Reading,8
+2015,Kansas,266.7655306,Reading,8
+2015,Kentucky,267.7729001,Reading,8
+2015,Louisiana,255.4694178,Reading,8
+2015,Maine,268.3912363,Reading,8
+2015,Maryland,267.9055297,Reading,8
+2015,Massachusetts,274.4975681,Reading,8
+2015,Michigan,264.4967551,Reading,8
+2015,Minnesota,270.2368178,Reading,8
+2015,Mississippi,251.9761652,Reading,8
+2015,Missouri,266.8763518,Reading,8
+2015,Montana,269.9567776,Reading,8
+2015,Nebraska,269.4262109,Reading,8
+2015,Nevada,259.4173764,Reading,8
+2015,New Hampshire,274.8067463,Reading,8
+2015,New Jersey,270.8537115,Reading,8
+2015,New Mexico,253.2277676,Reading,8
+2015,New York,263.2476586,Reading,8
+2015,North Carolina,260.5945566,Reading,8
+2015,North Dakota,266.955323,Reading,8
+2015,Ohio,265.8792203,Reading,8
+2015,Oklahoma,262.6731459,Reading,8
+2015,Oregon,267.6705197,Reading,8
+2015,Pennsylvania,268.7461208,Reading,8
+2015,Rhode Island,265.0508578,Reading,8
+2015,South Carolina,260.3314228,Reading,8
+2015,South Dakota,267.079865,Reading,8
+2015,Tennessee,264.771229,Reading,8
+2015,Texas,260.655136,Reading,8
+2015,Utah,269.4306647,Reading,8
+2015,Vermont,273.9618314,Reading,8
+2015,Virginia,266.8360535,Reading,8
+2015,Washington,267.2508807,Reading,8
+2015,West Virginia,260.1852726,Reading,8
+2015,Wisconsin,269.5337264,Reading,8
+2015,Wyoming,268.8033631,Reading,8
+2014,Alabama,258.0907999,Reading,8
+2014,Alaska,260.7865557,Reading,8
+2014,Arizona,261.6088395,Reading,8
+2014,Arkansas,260.3663794,Reading,8
+2014,California,260.2446492,Reading,8
+2014,Colorado,269.5411561,Reading,8
+2014,Connecticut,273.7537865,Reading,8
+2014,Delaware,264.2991361,Reading,8
+2014,District of Columbia,247.6962993,Reading,8
+2014,DoDEA,277.0928654,Reading,8
+2014,Florida,264.6056493,Reading,8
+2014,Georgia,263.4421594,Reading,8
+2014,Hawaii,258.6555047,Reading,8
+2014,Idaho,269.3888241,Reading,8
+2014,Illinois,266.8527247,Reading,8
+2014,Indiana,267.7632212,Reading,8
+2014,Iowa,268.602023,Reading,8
+2014,Kansas,266.8265271,Reading,8
+2014,Kentucky,268.6946859,Reading,8
+2014,Louisiana,256.4103303,Reading,8
+2014,Maine,268.7925002,Reading,8
+2014,Maryland,270.8537164,Reading,8
+2014,Massachusetts,275.7535636,Reading,8
+2014,Michigan,265.2198591,Reading,8
+2014,Minnesota,270.6282362,Reading,8
+2014,Mississippi,252.5619917,Reading,8
+2014,Missouri,267.0456818,Reading,8
+2014,Montana,270.8612801,Reading,8
+2014,Nebraska,269.3240628,Reading,8
+2014,Nevada,260.5566793,Reading,8
+2014,New Hampshire,274.557239,Reading,8
+2014,New Jersey,273.6158497,Reading,8
+2014,New Mexico,254.5489223,Reading,8
+2014,New York,264.7968609,Reading,8
+2014,North Carolina,262.5677782,Reading,8
+2014,North Dakota,267.3672614,Reading,8
+2014,Ohio,267.4830969,Reading,8
+2014,Oklahoma,262.3023206,Reading,8
+2014,Oregon,267.9765912,Reading,8
+2014,Pennsylvania,270.4157431,Reading,8
+2014,Rhode Island,265.8639551,Reading,8
+2014,South Carolina,260.8902368,Reading,8
+2014,South Dakota,267.5903189,Reading,8
+2014,Tennessee,265.0653668,Reading,8
+2014,Texas,262.1696369,Reading,8
+2014,Utah,269.7362953,Reading,8
+2014,Vermont,274.1651896,Reading,8
+2014,Virginia,267.2129589,Reading,8
+2014,Washington,269.6435026,Reading,8
+2014,West Virginia,258.784391,Reading,8
+2014,Wisconsin,268.5383603,Reading,8
+2014,Wyoming,269.8847677,Reading,8
+2013,Alabama,257.4278382,Reading,8
+2013,Alaska,261.2560926,Reading,8
+2013,Arizona,260.4482872,Reading,8
+2013,Arkansas,261.9644908,Reading,8
+2013,California,261.5024557,Reading,8
+2013,Colorado,271.0090869,Reading,8
+2013,Connecticut,274.4595425,Reading,8
+2013,Delaware,265.9849815,Reading,8
+2013,District of Columbia,247.7391537,Reading,8
+2013,DoDEA,276.9943674,Reading,8
+2013,Florida,265.8282971,Reading,8
+2013,Georgia,264.6157135,Reading,8
+2013,Hawaii,259.9605695,Reading,8
+2013,Idaho,270.2241686,Reading,8
+2013,Illinois,266.898721,Reading,8
+2013,Indiana,267.2729747,Reading,8
+2013,Iowa,269.0034496,Reading,8
+2013,Kansas,266.8875236,Reading,8
+2013,Kentucky,269.6164717,Reading,8
+2013,Louisiana,257.3512427,Reading,8
+2013,Maine,269.193764,Reading,8
+2013,Maryland,273.8019031,Reading,8
+2013,Massachusetts,277.0095591,Reading,8
+2013,Michigan,265.9429631,Reading,8
+2013,Minnesota,271.0196546,Reading,8
+2013,Mississippi,253.1478182,Reading,8
+2013,Missouri,267.2150118,Reading,8
+2013,Montana,271.7657825,Reading,8
+2013,Nebraska,269.2219146,Reading,8
+2013,Nevada,261.6959822,Reading,8
+2013,New Hampshire,274.3077317,Reading,8
+2013,New Jersey,276.3779878,Reading,8
+2013,New Mexico,255.870077,Reading,8
+2013,New York,266.3460632,Reading,8
+2013,North Carolina,264.5409997,Reading,8
+2013,North Dakota,267.7791997,Reading,8
+2013,Ohio,269.0869734,Reading,8
+2013,Oklahoma,261.9314952,Reading,8
+2013,Oregon,268.2826627,Reading,8
+2013,Pennsylvania,272.0853653,Reading,8
+2013,Rhode Island,266.6770524,Reading,8
+2013,South Carolina,261.4490507,Reading,8
+2013,South Dakota,268.1007728,Reading,8
+2013,Tennessee,265.3595046,Reading,8
+2013,Texas,263.6841377,Reading,8
+2013,Utah,270.0419258,Reading,8
+2013,Vermont,274.3685477,Reading,8
+2013,Virginia,267.5898643,Reading,8
+2013,Washington,272.0361244,Reading,8
+2013,West Virginia,257.3835093,Reading,8
+2013,Wisconsin,267.5429942,Reading,8
+2013,Wyoming,270.9661722,Reading,8
+2012,Alabama,257.9244643,Reading,8
+2012,Alaska,261.2706723,Reading,8
+2012,Arizona,260.2981462,Reading,8
+2012,Arkansas,260.5527143,Reading,8
+2012,California,258.218837,Reading,8
+2012,Colorado,270.8226456,Reading,8
+2012,Connecticut,274.570471,Reading,8
+2012,Delaware,265.9122285,Reading,8
+2012,District of Columbia,244.897761,Reading,8
+2012,DoDEA,274.6721637,Reading,8
+2012,Florida,263.974836,Reading,8
+2012,Georgia,263.4871785,Reading,8
+2012,Hawaii,258.57429,Reading,8
+2012,Idaho,269.1194201,Reading,8
+2012,Illinois,266.2712252,Reading,8
+2012,Indiana,266.0014096,Reading,8
+2012,Iowa,266.7789886,Reading,8
+2012,Kansas,267.1119597,Reading,8
+2012,Kentucky,269.2252177,Reading,8
+2012,Louisiana,256.0197953,Reading,8
+2012,Maine,269.5330885,Reading,8
+2012,Maryland,272.5123999,Reading,8
+2012,Massachusetts,276.1890384,Reading,8
+2012,Michigan,265.5685022,Reading,8
+2012,Minnesota,270.5843074,Reading,8
+2012,Mississippi,253.4906293,Reading,8
+2012,Missouri,266.9885316,Reading,8
+2012,Montana,272.3199617,Reading,8
+2012,Nebraska,268.4628899,Reading,8
+2012,Nevada,259.9446232,Reading,8
+2012,New Hampshire,273.1931791,Reading,8
+2012,New Jersey,275.7805761,Reading,8
+2012,New Mexico,255.8658558,Reading,8
+2012,New York,266.0215458,Reading,8
+2012,North Carolina,263.734978,Reading,8
+2012,North Dakota,268.2367088,Reading,8
+2012,Ohio,268.6854613,Reading,8
+2012,Oklahoma,261.0263799,Reading,8
+2012,Oregon,266.2541372,Reading,8
+2012,Pennsylvania,269.917981,Reading,8
+2012,Rhode Island,265.8983044,Reading,8
+2012,South Carolina,260.8780353,Reading,8
+2012,South Dakota,268.5211552,Reading,8
+2012,Tennessee,262.2839377,Reading,8
+2012,Texas,262.5562643,Reading,8
+2012,Utah,268.564666,Reading,8
+2012,Vermont,274.1046564,Reading,8
+2012,Virginia,267.4313778,Reading,8
+2012,Washington,269.8067991,Reading,8
+2012,West Virginia,256.7451855,Reading,8
+2012,Wisconsin,267.355012,Reading,8
+2012,Wyoming,270.267451,Reading,8
+2011,Alabama,258.4210904,Reading,8
+2011,Alaska,261.285252,Reading,8
+2011,Arizona,260.1480052,Reading,8
+2011,Arkansas,259.1409378,Reading,8
+2011,California,254.9352183,Reading,8
+2011,Colorado,270.6362043,Reading,8
+2011,Connecticut,274.6813995,Reading,8
+2011,Delaware,265.8394755,Reading,8
+2011,District of Columbia,242.0563682,Reading,8
+2011,DoDEA,272.34996,Reading,8
+2011,Florida,262.1213748,Reading,8
+2011,Georgia,262.3586434,Reading,8
+2011,Hawaii,257.1880104,Reading,8
+2011,Idaho,268.0146716,Reading,8
+2011,Illinois,265.6437294,Reading,8
+2011,Indiana,264.7298445,Reading,8
+2011,Iowa,264.5545275,Reading,8
+2011,Kansas,267.3363958,Reading,8
+2011,Kentucky,268.8339636,Reading,8
+2011,Louisiana,254.6883478,Reading,8
+2011,Maine,269.872413,Reading,8
+2011,Maryland,271.2228966,Reading,8
+2011,Massachusetts,275.3685176,Reading,8
+2011,Michigan,265.1940412,Reading,8
+2011,Minnesota,270.1489602,Reading,8
+2011,Mississippi,253.8334404,Reading,8
+2011,Missouri,266.7620513,Reading,8
+2011,Montana,272.8741408,Reading,8
+2011,Nebraska,267.7038652,Reading,8
+2011,Nevada,258.1932642,Reading,8
+2011,New Hampshire,272.0786265,Reading,8
+2011,New Jersey,275.1831643,Reading,8
+2011,New Mexico,255.8616346,Reading,8
+2011,New York,265.6970283,Reading,8
+2011,North Carolina,262.9289563,Reading,8
+2011,North Dakota,268.6942179,Reading,8
+2011,Ohio,268.2839492,Reading,8
+2011,Oklahoma,260.1212646,Reading,8
+2011,Oregon,264.2256116,Reading,8
+2011,Pennsylvania,267.7505967,Reading,8
+2011,Rhode Island,265.1195563,Reading,8
+2011,South Carolina,260.3070199,Reading,8
+2011,South Dakota,268.9415376,Reading,8
+2011,Tennessee,259.2083707,Reading,8
+2011,Texas,261.4283909,Reading,8
+2011,Utah,267.0874061,Reading,8
+2011,Vermont,273.840765,Reading,8
+2011,Virginia,267.2728912,Reading,8
+2011,Washington,267.5774737,Reading,8
+2011,West Virginia,256.1068616,Reading,8
+2011,Wisconsin,267.1670297,Reading,8
+2011,Wyoming,269.5687297,Reading,8
+2010,Alabama,256.6581685,Reading,8
+2010,Alaska,260.3673393,Reading,8
+2010,Arizona,258.8716404,Reading,8
+2010,Arkansas,258.594759,Reading,8
+2010,California,253.7832996,Reading,8
+2010,Colorado,268.0746621,Reading,8
+2010,Connecticut,273.2457664,Reading,8
+2010,Delaware,265.4192208,Reading,8
+2010,District of Columbia,242.2733963,Reading,8
+2010,DoDEA,272.4046382,Reading,8
+2010,Florida,263.2417079,Reading,8
+2010,Georgia,261.301584,Reading,8
+2010,Hawaii,255.9634952,Reading,8
+2010,Idaho,266.4259283,Reading,8
+2010,Illinois,265.0788659,Reading,8
+2010,Indiana,265.2105426,Reading,8
+2010,Iowa,264.7213268,Reading,8
+2010,Kansas,267.0679576,Reading,8
+2010,Kentucky,267.8439917,Reading,8
+2010,Louisiana,254.0086759,Reading,8
+2010,Maine,268.7894563,Reading,8
+2010,Maryland,269.2604766,Reading,8
+2010,Massachusetts,274.4789037,Reading,8
+2010,Michigan,263.5460956,Reading,8
+2010,Minnesota,269.9443902,Reading,8
+2010,Mississippi,252.5695475,Reading,8
+2010,Missouri,266.8192558,Reading,8
+2010,Montana,271.6340334,Reading,8
+2010,Nebraska,267.3858609,Reading,8
+2010,Nevada,256.0171093,Reading,8
+2010,New Hampshire,271.4133927,Reading,8
+2010,New Jersey,273.9928991,Reading,8
+2010,New Mexico,254.9954042,Reading,8
+2010,New York,264.9925429,Reading,8
+2010,North Carolina,261.2287215,Reading,8
+2010,North Dakota,268.9671014,Reading,8
+2010,Ohio,268.4810924,Reading,8
+2010,Oklahoma,259.8085178,Reading,8
+2010,Oregon,264.6574292,Reading,8
+2010,Pennsylvania,269.2255667,Reading,8
+2010,Rhode Island,262.502573,Reading,8
+2010,South Carolina,258.7906023,Reading,8
+2010,South Dakota,269.5012639,Reading,8
+2010,Tennessee,260.0775235,Reading,8
+2010,Texas,260.898593,Reading,8
+2010,Utah,266.3394916,Reading,8
+2010,Vermont,273.0729496,Reading,8
+2010,Virginia,266.4574365,Reading,8
+2010,Washington,267.2475454,Reading,8
+2010,West Virginia,255.4533046,Reading,8
+2010,Wisconsin,266.4898227,Reading,8
+2010,Wyoming,268.8640789,Reading,8
+2009,Alabama,254.8952466,Reading,8
+2009,Alaska,259.4494265,Reading,8
+2009,Arizona,257.5952755,Reading,8
+2009,Arkansas,258.0485802,Reading,8
+2009,California,252.6313808,Reading,8
+2009,Colorado,265.5131199,Reading,8
+2009,Connecticut,271.8101332,Reading,8
+2009,Delaware,264.9989661,Reading,8
+2009,District of Columbia,242.4904243,Reading,8
+2009,DoDEA,272.4593163,Reading,8
+2009,Florida,264.3620409,Reading,8
+2009,Georgia,260.2445245,Reading,8
+2009,Hawaii,254.7389799,Reading,8
+2009,Idaho,264.837185,Reading,8
+2009,Illinois,264.5140023,Reading,8
+2009,Indiana,265.6912406,Reading,8
+2009,Iowa,264.888126,Reading,8
+2009,Kansas,266.7995193,Reading,8
+2009,Kentucky,266.8540198,Reading,8
+2009,Louisiana,253.329004,Reading,8
+2009,Maine,267.7064996,Reading,8
+2009,Maryland,267.2980565,Reading,8
+2009,Massachusetts,273.5892897,Reading,8
+2009,Michigan,261.89815,Reading,8
+2009,Minnesota,269.7398201,Reading,8
+2009,Mississippi,251.3056546,Reading,8
+2009,Missouri,266.8764602,Reading,8
+2009,Montana,270.393926,Reading,8
+2009,Nebraska,267.0678566,Reading,8
+2009,Nevada,253.8409544,Reading,8
+2009,New Hampshire,270.7481588,Reading,8
+2009,New Jersey,272.8026339,Reading,8
+2009,New Mexico,254.1291737,Reading,8
+2009,New York,264.2880575,Reading,8
+2009,North Carolina,259.5284866,Reading,8
+2009,North Dakota,269.2399849,Reading,8
+2009,Ohio,268.6782355,Reading,8
+2009,Oklahoma,259.495771,Reading,8
+2009,Oregon,265.0892467,Reading,8
+2009,Pennsylvania,270.7005367,Reading,8
+2009,Rhode Island,259.8855897,Reading,8
+2009,South Carolina,257.2741846,Reading,8
+2009,South Dakota,270.0609902,Reading,8
+2009,Tennessee,260.9466762,Reading,8
+2009,Texas,260.368795,Reading,8
+2009,Utah,265.5915771,Reading,8
+2009,Vermont,272.3051342,Reading,8
+2009,Virginia,265.6419817,Reading,8
+2009,Washington,266.9176171,Reading,8
+2009,West Virginia,254.7997475,Reading,8
+2009,Wisconsin,265.8126157,Reading,8
+2009,Wyoming,268.1594281,Reading,8
+2008,Alabama,253.416064,Reading,8
+2008,Alaska,259.1239412,Reading,8
+2008,Arizona,256.212034,Reading,8
+2008,Arkansas,258.004788,Reading,8
+2008,California,251.9595862,Reading,8
+2008,Colorado,265.9605008,Reading,8
+2008,Connecticut,269.4329123,Reading,8
+2008,Delaware,264.7718984,Reading,8
+2008,District of Columbia,241.6420246,Reading,8
+2008,DoDEA,272.5759346,Reading,8
+2008,Florida,262.0763808,Reading,8
+2008,Georgia,259.4747587,Reading,8
+2008,Hawaii,253.0348953,Reading,8
+2008,Idaho,264.8617637,Reading,8
+2008,Illinois,263.6703097,Reading,8
+2008,Indiana,264.8936008,Reading,8
+2008,Iowa,266.1694228,Reading,8
+2008,Kansas,267.1066551,Reading,8
+2008,Kentucky,264.4099854,Reading,8
+2008,Louisiana,253.2836492,Reading,8
+2008,Maine,268.8133267,Reading,8
+2008,Maryland,266.269089,Reading,8
+2008,Massachusetts,273.4366693,Reading,8
+2008,Michigan,261.1079281,Reading,8
+2008,Minnesota,268.9686315,Reading,8
+2008,Mississippi,250.6846124,Reading,8
+2008,Missouri,265.1593881,Reading,8
+2008,Montana,270.665888,Reading,8
+2008,Nebraska,267.0493536,Reading,8
+2008,Nevada,253.0947142,Reading,8
+2008,New Hampshire,270.2413737,Reading,8
+2008,New Jersey,271.4720921,Reading,8
+2008,New Mexico,252.4411741,Reading,8
+2008,New York,263.916887,Reading,8
+2008,North Carolina,259.3325949,Reading,8
+2008,North Dakota,268.6288277,Reading,8
+2008,Ohio,268.3286075,Reading,8
+2008,Oklahoma,259.5214981,Reading,8
+2008,Oregon,265.3997285,Reading,8
+2008,Pennsylvania,269.1830835,Reading,8
+2008,Rhode Island,259.1033537,Reading,8
+2008,South Carolina,257.3476937,Reading,8
+2008,South Dakota,269.8288768,Reading,8
+2008,Tennessee,260.0543156,Reading,8
+2008,Texas,260.5908571,Reading,8
+2008,Utah,263.9098009,Reading,8
+2008,Vermont,272.6754457,Reading,8
+2008,Virginia,266.2603596,Reading,8
+2008,Washington,265.9326976,Reading,8
+2008,West Virginia,254.89915,Reading,8
+2008,Wisconsin,264.9985627,Reading,8
+2008,Wyoming,267.1924859,Reading,8
+2007,Alabama,251.9368814,Reading,8
+2007,Alaska,258.7984559,Reading,8
+2007,Arizona,254.8287924,Reading,8
+2007,Arkansas,257.9609958,Reading,8
+2007,California,251.2877915,Reading,8
+2007,Colorado,266.4078816,Reading,8
+2007,Connecticut,267.0556914,Reading,8
+2007,Delaware,264.5448307,Reading,8
+2007,District of Columbia,240.7936248,Reading,8
+2007,DoDEA,272.6925529,Reading,8
+2007,Florida,259.7907207,Reading,8
+2007,Georgia,258.7049928,Reading,8
+2007,Hawaii,251.3308107,Reading,8
+2007,Idaho,264.8863424,Reading,8
+2007,Illinois,262.8266171,Reading,8
+2007,Indiana,264.0959609,Reading,8
+2007,Iowa,267.4507196,Reading,8
+2007,Kansas,267.4137909,Reading,8
+2007,Kentucky,261.965951,Reading,8
+2007,Louisiana,253.2382943,Reading,8
+2007,Maine,269.9201538,Reading,8
+2007,Maryland,265.2401215,Reading,8
+2007,Massachusetts,273.2840488,Reading,8
+2007,Michigan,260.3177061,Reading,8
+2007,Minnesota,268.1974428,Reading,8
+2007,Mississippi,250.0635701,Reading,8
+2007,Missouri,263.442316,Reading,8
+2007,Montana,270.93785,Reading,8
+2007,Nebraska,267.0308506,Reading,8
+2007,Nevada,252.3484739,Reading,8
+2007,New Hampshire,269.7345886,Reading,8
+2007,New Jersey,270.1415503,Reading,8
+2007,New Mexico,250.7531745,Reading,8
+2007,New York,263.5457165,Reading,8
+2007,North Carolina,259.1367031,Reading,8
+2007,North Dakota,268.0176705,Reading,8
+2007,Ohio,267.9789794,Reading,8
+2007,Oklahoma,259.5472252,Reading,8
+2007,Oregon,265.7102102,Reading,8
+2007,Pennsylvania,267.6656302,Reading,8
+2007,Rhode Island,258.3211177,Reading,8
+2007,South Carolina,257.4212028,Reading,8
+2007,South Dakota,269.5967634,Reading,8
+2007,Tennessee,259.1619549,Reading,8
+2007,Texas,260.8129192,Reading,8
+2007,Utah,262.2280247,Reading,8
+2007,Vermont,273.0457572,Reading,8
+2007,Virginia,266.8787375,Reading,8
+2007,Washington,264.9477781,Reading,8
+2007,West Virginia,254.9985524,Reading,8
+2007,Wisconsin,264.1845096,Reading,8
+2007,Wyoming,266.2255436,Reading,8
+2006,Alabama,251.9576363,Reading,8
+2006,Alaska,258.7598653,Reading,8
+2006,Arizona,254.8083653,Reading,8
+2006,Arkansas,257.8263639,Reading,8
+2006,California,250.859424,Reading,8
+2006,Colorado,265.5829939,Reading,8
+2006,Connecticut,265.5342253,Reading,8
+2006,Delaware,265.2770981,Reading,8
+2006,District of Columbia,239.4983589,Reading,8
+2006,DoDEA,271.6006469,Reading,8
+2006,Florida,257.7853454,Reading,8
+2006,Georgia,257.7886872,Reading,8
+2006,Hawaii,249.9181169,Reading,8
+2006,Idaho,264.5940431,Reading,8
+2006,Illinois,263.1718234,Reading,8
+2006,Indiana,262.5548237,Reading,8
+2006,Iowa,267.2269457,Reading,8
+2006,Kansas,267.1225121,Reading,8
+2006,Kentucky,262.9521847,Reading,8
+2006,Louisiana,252.9649438,Reading,8
+2006,Maine,269.9517988,Reading,8
+2006,Maryland,263.0112525,Reading,8
+2006,Massachusetts,273.5000559,Reading,8
+2006,Michigan,260.7280892,Reading,8
+2006,Minnesota,268.2770579,Reading,8
+2006,Mississippi,250.2971195,Reading,8
+2006,Missouri,264.0508424,Reading,8
+2006,Montana,270.0809899,Reading,8
+2006,Nebraska,267.2432725,Reading,8
+2006,Nevada,252.6087682,Reading,8
+2006,New Hampshire,269.6929295,Reading,8
+2006,New Jersey,269.7823892,Reading,8
+2006,New Mexico,250.8932526,Reading,8
+2006,New York,264.3421392,Reading,8
+2006,North Carolina,258.6484443,Reading,8
+2006,North Dakota,269.1307132,Reading,8
+2006,Ohio,267.3731303,Reading,8
+2006,Oklahoma,259.5892926,Reading,8
+2006,Oregon,264.4335505,Reading,8
+2006,Pennsylvania,267.2437707,Reading,8
+2006,Rhode Island,259.6447223,Reading,8
+2006,South Carolina,257.2951537,Reading,8
+2006,South Dakota,269.0685995,Reading,8
+2006,Tennessee,259.1171484,Reading,8
+2006,Texas,259.5022586,Reading,8
+2006,Utah,262.0494484,Reading,8
+2006,Vermont,270.9090889,Reading,8
+2006,Virginia,267.3438521,Reading,8
+2006,Washington,264.802165,Reading,8
+2006,West Virginia,255.035966,Reading,8
+2006,Wisconsin,265.2065352,Reading,8
+2006,Wyoming,267.1748893,Reading,8
+2005,Alabama,251.9783912,Reading,8
+2005,Alaska,258.7212747,Reading,8
+2005,Arizona,254.7879382,Reading,8
+2005,Arkansas,257.6917319,Reading,8
+2005,California,250.4310564,Reading,8
+2005,Colorado,264.7581061,Reading,8
+2005,Connecticut,264.0127592,Reading,8
+2005,Delaware,266.0093654,Reading,8
+2005,District of Columbia,238.203093,Reading,8
+2005,DoDEA,270.5087409,Reading,8
+2005,Florida,255.77997,Reading,8
+2005,Georgia,256.8723815,Reading,8
+2005,Hawaii,248.505423,Reading,8
+2005,Idaho,264.3017438,Reading,8
+2005,Illinois,263.5170297,Reading,8
+2005,Indiana,261.0136865,Reading,8
+2005,Iowa,267.0031717,Reading,8
+2005,Kansas,266.8312332,Reading,8
+2005,Kentucky,263.9384184,Reading,8
+2005,Louisiana,252.6915933,Reading,8
+2005,Maine,269.9834438,Reading,8
+2005,Maryland,260.7823834,Reading,8
+2005,Massachusetts,273.7160629,Reading,8
+2005,Michigan,261.1384723,Reading,8
+2005,Minnesota,268.3566729,Reading,8
+2005,Mississippi,250.5306689,Reading,8
+2005,Missouri,264.6593688,Reading,8
+2005,Montana,269.2241297,Reading,8
+2005,Nebraska,267.4556943,Reading,8
+2005,Nevada,252.8690625,Reading,8
+2005,New Hampshire,269.6512703,Reading,8
+2005,New Jersey,269.4232281,Reading,8
+2005,New Mexico,251.0333307,Reading,8
+2005,New York,265.1385618,Reading,8
+2005,North Carolina,258.1601855,Reading,8
+2005,North Dakota,270.2437558,Reading,8
+2005,Ohio,266.7672812,Reading,8
+2005,Oklahoma,259.63136,Reading,8
+2005,Oregon,263.1568908,Reading,8
+2005,Pennsylvania,266.8219111,Reading,8
+2005,Rhode Island,260.9683268,Reading,8
+2005,South Carolina,257.1691046,Reading,8
+2005,South Dakota,268.5404356,Reading,8
+2005,Tennessee,259.0723418,Reading,8
+2005,Texas,258.191598,Reading,8
+2005,Utah,261.8708721,Reading,8
+2005,Vermont,268.7724206,Reading,8
+2005,Virginia,267.8089667,Reading,8
+2005,Washington,264.6565519,Reading,8
+2005,West Virginia,255.0733796,Reading,8
+2005,Wisconsin,266.2285608,Reading,8
+2005,Wyoming,268.1242349,Reading,8
+2004,Alabama,252.5754925,Reading,8
+2004,Alaska,257.56545,Reading,8
+2004,Arizona,255.0540267,Reading,8
+2004,Arkansas,257.8449105,Reading,8
+2004,California,250.7192784,Reading,8
+2004,Colorado,266.1753735,Reading,8
+2004,Connecticut,265.6154173,Reading,8
+2004,Delaware,265.2707085,Reading,8
+2004,District of Columbia,238.4519132,Reading,8
+2004,DoDEA,271.1498548,Reading,8
+2004,Florida,256.5406449,Reading,8
+2004,Georgia,257.2936033,Reading,8
+2004,Hawaii,249.8951125,Reading,8
+2004,Idaho,264.3707598,Reading,8
+2004,Illinois,264.9629993,Reading,8
+2004,Indiana,262.9231094,Reading,8
+2004,Iowa,267.2540017,Reading,8
+2004,Kansas,266.4214614,Reading,8
+2004,Kentucky,265.0649268,Reading,8
+2004,Louisiana,253.0699408,Reading,8
+2004,Maine,269.1533545,Reading,8
+2004,Maryland,261.1890577,Reading,8
+2004,Massachusetts,273.311354,Reading,8
+2004,Michigan,262.7583824,Reading,8
+2004,Minnesota,268.0340157,Reading,8
+2004,Mississippi,252.7707485,Reading,8
+2004,Missouri,266.0115211,Reading,8
+2004,Montana,269.5287729,Reading,8
+2004,Nebraska,266.8846924,Reading,8
+2004,Nevada,252.5894891,Reading,8
+2004,New Hampshire,270.1928617,Reading,8
+2004,New Jersey,268.6050906,Reading,8
+2004,New Mexico,251.3162434,Reading,8
+2004,New York,265.2341782,Reading,8
+2004,North Carolina,259.9359152,Reading,8
+2004,North Dakota,269.9870551,Reading,8
+2004,Ohio,266.6666936,Reading,8
+2004,Oklahoma,260.6756605,Reading,8
+2004,Oregon,263.5912304,Reading,8
+2004,Pennsylvania,265.5446381,Reading,8
+2004,Rhode Island,260.9239495,Reading,8
+2004,South Carolina,257.629048,Reading,8
+2004,South Dakota,269.2557471,Reading,8
+2004,Tennessee,258.5903532,Reading,8
+2004,Texas,258.484428,Reading,8
+2004,Utah,263.0871574,Reading,8
+2004,Vermont,269.6459298,Reading,8
+2004,Virginia,267.9068919,Reading,8
+2004,Washington,264.5753092,Reading,8
+2004,West Virginia,257.3188088,Reading,8
+2004,Wisconsin,266.3485892,Reading,8
+2004,Wyoming,267.5626317,Reading,8
+2003,Alabama,253.1725937,Reading,8
+2003,Alaska,256.4096253,Reading,8
+2003,Arizona,255.3201152,Reading,8
+2003,Arkansas,257.998089,Reading,8
+2003,California,251.0075004,Reading,8
+2003,Colorado,267.5926409,Reading,8
+2003,Connecticut,267.2180754,Reading,8
+2003,Delaware,264.5320515,Reading,8
+2003,District of Columbia,238.7007333,Reading,8
+2003,DoDEA,271.7909687,Reading,8
+2003,Florida,257.3013198,Reading,8
+2003,Georgia,257.714825,Reading,8
+2003,Hawaii,251.2848019,Reading,8
+2003,Idaho,264.4397757,Reading,8
+2003,Illinois,266.4089689,Reading,8
+2003,Indiana,264.8325323,Reading,8
+2003,Iowa,267.5048317,Reading,8
+2003,Kansas,266.0116896,Reading,8
+2003,Kentucky,266.1914352,Reading,8
+2003,Louisiana,253.4482882,Reading,8
+2003,Maine,268.3232652,Reading,8
+2003,Maryland,261.5957319,Reading,8
+2003,Massachusetts,272.9066451,Reading,8
+2003,Michigan,264.3782925,Reading,8
+2003,Minnesota,267.7113584,Reading,8
+2003,Mississippi,255.010828,Reading,8
+2003,Missouri,267.3636733,Reading,8
+2003,Montana,269.833416,Reading,8
+2003,Nebraska,266.3136904,Reading,8
+2003,Nevada,252.3099157,Reading,8
+2003,New Hampshire,270.734453,Reading,8
+2003,New Jersey,267.7869531,Reading,8
+2003,New Mexico,251.599156,Reading,8
+2003,New York,265.3297945,Reading,8
+2003,North Carolina,261.7116448,Reading,8
+2003,North Dakota,269.7303543,Reading,8
+2003,Ohio,266.5661059,Reading,8
+2003,Oklahoma,261.719961,Reading,8
+2003,Oregon,264.0255699,Reading,8
+2003,Pennsylvania,264.2673651,Reading,8
+2003,Rhode Island,260.8795721,Reading,8
+2003,South Carolina,258.0889914,Reading,8
+2003,South Dakota,269.9710586,Reading,8
+2003,Tennessee,258.1083646,Reading,8
+2003,Texas,258.777258,Reading,8
+2003,Utah,264.3034426,Reading,8
+2003,Vermont,270.519439,Reading,8
+2003,Virginia,268.0048171,Reading,8
+2003,Washington,264.4940665,Reading,8
+2003,West Virginia,259.5642379,Reading,8
+2003,Wisconsin,266.4686176,Reading,8
+2003,Wyoming,267.0010285,Reading,8
+2002,Alabama,252.5017054,Reading,8
+2002,Alaska,—,Reading,8
+2002,Arizona,256.7349114,Reading,8
+2002,Arkansas,260.1348707,Reading,8
+2002,California,250.4508033,Reading,8
+2002,Colorado,—,Reading,8
+2002,Connecticut,267.0320728,Reading,8
+2002,Delaware,267.2741902,Reading,8
+2002,District of Columbia,239.8105247,Reading,8
+2002,DoDEA,272.9137446,Reading,8
+2002,Florida,261.0536559,Reading,8
+2002,Georgia,258.0054816,Reading,8
+2002,Hawaii,251.6131316,Reading,8
+2002,Idaho,266.4997692,Reading,8
+2002,Illinois,‡,Reading,8
+2002,Indiana,264.8881211,Reading,8
+2002,Iowa,—,Reading,8
+2002,Kansas,269.1159357,Reading,8
+2002,Kentucky,265.2467404,Reading,8
+2002,Louisiana,256.2683514,Reading,8
+2002,Maine,269.8212492,Reading,8
+2002,Maryland,263.3448642,Reading,8
+2002,Massachusetts,270.5182666,Reading,8
+2002,Michigan,264.7230459,Reading,8
+2002,Minnesota,‡,Reading,8
+2002,Mississippi,255.0211927,Reading,8
+2002,Missouri,267.9094153,Reading,8
+2002,Montana,270.1650423,Reading,8
+2002,Nebraska,269.9489206,Reading,8
+2002,Nevada,251.363201,Reading,8
+2002,New Hampshire,—,Reading,8
+2002,New Jersey,—,Reading,8
+2002,New Mexico,253.6627563,Reading,8
+2002,New York,263.9486365,Reading,8
+2002,North Carolina,265.0228585,Reading,8
+2002,North Dakota,268.0900265,Reading,8
+2002,Ohio,268.3158619,Reading,8
+2002,Oklahoma,262.012003,Reading,8
+2002,Oregon,268.1445305,Reading,8
+2002,Pennsylvania,265.3205584,Reading,8
+2002,Rhode Island,261.9034343,Reading,8
+2002,South Carolina,257.6407828,Reading,8
+2002,South Dakota,—,Reading,8
+2002,Tennessee,260.2764414,Reading,8
+2002,Texas,262.1004242,Reading,8
+2002,Utah,263.2836376,Reading,8
+2002,Vermont,271.8345898,Reading,8
+2002,Virginia,269.1974505,Reading,8
+2002,Washington,268.1681543,Reading,8
+2002,West Virginia,263.6897811,Reading,8
+2002,Wisconsin,‡,Reading,8
+2002,Wyoming,264.9384658,Reading,8
+1998,Alabama,255.2266348,Reading,8
+1998,Alaska,—,Reading,8
+1998,Arizona,260.800208,Reading,8
+1998,Arkansas,255.7265305,Reading,8
+1998,California,253.2129518,Reading,8
+1998,Colorado,263.5421958,Reading,8
+1998,Connecticut,271.5667703,Reading,8
+1998,Delaware,255.8823272,Reading,8
+1998,District of Columbia,236.3791018,Reading,8
+1998,DoDEA,269.1646662,Reading,8
+1998,Florida,253.3348267,Reading,8
+1998,Georgia,257.0731541,Reading,8
+1998,Hawaii,249.6897555,Reading,8
+1998,Idaho,—,Reading,8
+1998,Illinois,‡,Reading,8
+1998,Indiana,—,Reading,8
+1998,Iowa,—,Reading,8
+1998,Kansas,267.7881954,Reading,8
+1998,Kentucky,262.0617136,Reading,8
+1998,Louisiana,251.8918605,Reading,8
+1998,Maine,272.6471063,Reading,8
+1998,Maryland,262.1029227,Reading,8
+1998,Massachusetts,268.8724579,Reading,8
+1998,Michigan,—,Reading,8
+1998,Minnesota,267.2182362,Reading,8
+1998,Mississippi,250.5781316,Reading,8
+1998,Missouri,262.9036788,Reading,8
+1998,Montana,270.2134195,Reading,8
+1998,Nebraska,—,Reading,8
+1998,Nevada,256.8384013,Reading,8
+1998,New Hampshire,—,Reading,8
+1998,New Jersey,—,Reading,8
+1998,New Mexico,257.5324275,Reading,8
+1998,New York,266.3116623,Reading,8
+1998,North Carolina,263.5917419,Reading,8
+1998,North Dakota,—,Reading,8
+1998,Ohio,—,Reading,8
+1998,Oklahoma,265.3637984,Reading,8
+1998,Oregon,265.8071079,Reading,8
+1998,Pennsylvania,—,Reading,8
+1998,Rhode Island,262.3251264,Reading,8
+1998,South Carolina,254.523637,Reading,8
+1998,South Dakota,—,Reading,8
+1998,Tennessee,258.8597125,Reading,8
+1998,Texas,262.1698947,Reading,8
+1998,Utah,264.6196647,Reading,8
+1998,Vermont,—,Reading,8
+1998,Virginia,266.4196869,Reading,8
+1998,Washington,264.7139043,Reading,8
+1998,West Virginia,261.5779209,Reading,8
+1998,Wisconsin,265.976765,Reading,8
+1998,Wyoming,262.1189861,Reading,8
