@@ -54,8 +54,8 @@
             <div class="container"></div>
             <h1 style="text-align: justify">
                 <font color="black">
-                    <center>Machine Learning Objective<br> Predict Average Math scores given funding, spending and
-                        teacher salary data </center>
+                    <center>Machine Learning Objective<br> <h3>Predict Average Math scores given funding, spending and
+                        teacher salary data </center></h3>
                 </font>
             </h1>
             <div class="container" style="margin-top:80px" align="center">
@@ -83,7 +83,21 @@
                     <font color="black">Process & Initial Review</font>
                 </h5>
                 <p style="text-align:justify">
-                    <font color="black">Using a linear regression model, our initial findings on the
+                    <font color="black">The key things to note with the pre-processing of our data are:
+                        <ul>
+                            <font color="black">
+                                <li style="text-align: justify">The NAEP publishes test results every other year, which
+                                    meant that our dataset was missing scores for every even year. To retain as much of
+                                    the funding data as possible, we imputed the average test scores for the even years
+                                    by finding the average of the test scores for the previous year and the next year.
+                                    For example, 2016 = average(2015,2017).</li>
+                                <li style="text-align: justify">When passing the data through Scikit Learn's Standard
+                                    Scaler, we did not scale the y variable (Average Scores) so as to retain the meaning
+                                    behind the predicted values.</li>
+                            </font>
+                        </ul>
+                    </br>
+                        Using a linear regression model, our initial findings on the
                         training and test data suggested that the model would be reasonable in predicting average
                         test scores. The model
                         produced an R2 score of 0.95 and a reasonably low MSE. Plotting the residuals as well as
@@ -92,11 +106,13 @@
                     </br>
                     <ul>
                         <font color="black">
-                            <li style="text-align: justify">The residuals are fairly symmetrically distributed, tending to cluster towards the
+                            <li style="text-align: justify">The residuals are fairly symmetrically distributed, tending
+                                to cluster towards the
                                 middle of
                                 the
                                 plot</li>
-                            <li style="text-align: justify">They’re clustered around the lower single digits of the y-axis (e.g., 2 or 5, not 10 or
+                            <li style="text-align: justify">They’re clustered around the lower single digits of the
+                                y-axis (e.g., 2 or 5, not 10 or
                                 above)
                             </li>
                             <li style="text-align: justify">In general, there weren’t any clear patterns</li>
@@ -128,7 +144,10 @@
                         predicting the average test scores for the latest 3 years (2015 - 2017). Actual average test
                         scores for these
                         years have been published, which would allow for a comparison of predicted score vs actual. For
-                        the most part, the predicted values weren't significantly different.
+                        the most part, the predicted values weren't significantly different. Some of the states with the
+                        most accurately predicted scores are California, Georgia, Idaho and Illinois. Some of the states
+                        with the least accurately predicted scores are Arizona, Kentucky and South Carolina. This is
+                        interesting because there have been protests for increased funding in these 3 states.
                         </br><u>Select a State</u> in the drop down bar
                         of the chart below to see the predicted score vs the actual score spanning 2015 - 2017.</font>
                 </p>
@@ -162,24 +181,68 @@
             </div>
             <div class="col-md-3"></div>
         </div>
+        <div class="container" style="margin-top:80px" align="center">
+            <h5>
+                <font color="black"><u>Key Findings: 2019 Predictions</u></font>
+            </h5>
+            <div class="col-md-9">
+                <p style="text-align:justify">
+                    <font color="black">
+                        In general, the 2019 predicted test scores follow the trend from previous years. For example,
+                        Massachusetts has historically had the highest average test score and will continue to do so
+                        according to the model. Conversely, the District of Columbia has historically had the lowest
+                        average test score, and will continue to do so according to the model. We selected 2 states from
+                        the protest states group to assess whether there is a correlation between the forecast level of
+                        funding and the predicted average test score as follows:
+                    </font>
+                    </br>
+                    <ul>
+                        <font color="black">
+                            <li style="text-align: justify">Oklahoma: The Total Funding for Oklahoma is forecasted to
+                                increase from $6.1m in 2017 to $6.3m in 2019. The model predicts that this will strongly
+                                influence average test scores, with an increase from 274.7 in 2017 to a predicted score
+                                of 281.2 in 2019</li>
+                            <li style="text-align: justify">Virginia: The Total Funding for Virginia is forecasted to
+                                decrease from $17.4m in 2017 to $16.5m in 2019. The model predicts that this will
+                                strongly influence average test scores, with an decrease from 290.1 in 2017 to a
+                                predicted score of 288.3 in 2019</li>
+                        </font>
+                    </ul>
+
+                </p>
+            </div>
+            <div class="col-md-3"></div>
+        </div>
         <div id="chart"></div>
         <div class="container" style="margin-top:80px" align="center">
-                <h5><font color="black">Data sources</font></h5>
-                <div class="col-md-9">
-                      <p  style="text-align:justify"><font color="black">
-                          <ul><font color="black">
-                        <li style="text-align: justify">Funding Data: <a href="census.gov">U.S. Census</a> (/programs-surveys/school-finances/data/tables.html)</li>
-                    <li style="text-align: justify">Test Scores Data: <a href= "https://nces.ed.gov/nationsreportcard/"> National Assessment of Educational Progress (NAEP)</a></li>
-                </font></ul>
-            </font></p></div>
-                </div>
-                <div class="col-md-3"></div>
+            <h5>
+                <font color="black">Data sources</font>
+            </h5>
+            <div class="col-md-9">
+                <p style="text-align:justify">
+                    <font color="black">
+                        <ul>
+                            <font color="black">
+                                <li style="text-align: justify">Funding Data: <a href="census.gov">U.S. Census</a>
+                                    (/programs-surveys/school-finances/data/tables.html)</li>
+                                <li style="text-align: justify">Test Scores Data: <a
+                                        href="https://nces.ed.gov/nationsreportcard/"> National Assessment of
+                                        Educational Progress (NAEP)</a></li>
+                            </font>
+                        </ul>
+                    </font>
+                </p>
+            </div>
         </div>
-        <div class="container" style="margin-top:40px">
-                <footer>
-                  <p align="center"><font color="black">Created by The 6 Musketeers for GW Data Analytics Bootcamp - 2019</font></p>
-                </footer>
-              </div>
+        <div class="col-md-3"></div>
+    </div>
+    <div class="container" style="margin-top:40px">
+        <footer>
+            <p align="center">
+                <font color="black">Created by The 6 Musketeers for GW Data Analytics Bootcamp - 2019</font>
+            </p>
+        </footer>
+    </div>
     </div>
     <script type="text/javascript" src="../static/js/mlMathData18_19.js"></script>
     <script type="text/javascript" src="../static/js/mlResultsViz2.js"></script>
