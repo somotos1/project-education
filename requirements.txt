@@ -6,7 +6,7 @@ gunicorn==19.9.0
 pandas==0.24.2
 psycopg2==2.8.3
 numpy==1.16.4
-certifi==2019.3.9
+certifi==2022.12.7
 Click==7.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
